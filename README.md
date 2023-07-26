@@ -13,6 +13,23 @@ Currently, I am furthering my skills as an intern at CSCEC Kuwait in the IT Depa
 - Python, Java, C++, HTML, CSS
 - Currently mastering JavaScript for web development
 
+### 🛠 Languages and Tools:
+
+<a href="https://code.visualstudio.com/"><img align="left" alt="Visual Studio Code" width="26px" height="26px"
+        src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" /></a>
+<a href="https://html.com/"><img align="left" alt="HTML5" width="26px" height="26px"
+        src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" /></a>
+<a href="https://www.w3schools.com/css/default.asp"><img align="left" alt="CSS3" width="26px" height="26px"
+        src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" /></a>
+<a href="https://www.javascript.com/"><img align="left" alt="JavaScript" width="26px" height="26px"
+        src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" /></a>
+<a href="https://www.java.com/en/"><img align="left" alt="Java" width="26px" height="26px"
+        src="https://img.icons8.com/external-flaticons-flat-flat-icons/64/external-java-computer-programming-flaticons-flat-flat-icons.png" /></a>
+<a href="https://www.python.org/"><img align="left" alt="Python" width="26px" height="26px"
+        src="https://img.icons8.com/color/48/python--v1.png" /></a>
+  <br />
+<br />
+
 ## Interests
 
 I am actively seeking opportunities to apply my skills and knowledge to protect digital landscapes, drive innovation, and contribute to the growth and success of a dynamic organization. I am confident in my ability to excel in challenging roles within the software industry, leveraging my technical expertise, leadership experience, and meticulous approach.
@@ -37,11 +54,6 @@ I am looking for help with exploring more advanced topics in cyber security and 
 - Programming languages like Python, Java, C++, HTML, and CSS
 - My experience as an Operations Manager at IEEE Student Branch Islamabad
 
-## 📫 How to Reach Me
-
-- LinkedIn: [Abdullah Maqbool](https://www.linkedin.com/in/abdullahmaqbool/)
-- Email: abdullahmaqbool08@gmail.com
-
 ## 😄 Pronouns
 
 He/Him
@@ -50,8 +62,8 @@ He/Him
 
 I am deeply passionate about both securing digital environments and creating innovative web applications. I believe in the power of technology to make a positive impact on the world.
 
-## My Stats.
-![Github stats](https://github-readme-stats.vercel.app/api?username=AbdullahM22)
+## My Languages.
+ <img height="180em" width="360em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AbdullahM22&layout=compact&theme=algolia"/> 
 
 ## My Projects
 
@@ -61,6 +73,15 @@ I am deeply passionate about both securing digital environments and creating inn
 
 ![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=AbdullahM22&repo=2nd_Semester_PF_Project)
 
+
+## 📫 How to Reach Me
+<a href = "https://twitter.com/home"><img align="left" width="22px" 
+src="https://usmanasif961507868.files.wordpress.com/2021/08/twitter.png" /></a>
+<a href = "https://www.linkedin.com/in/abdullahmaqbool/"><img align="left" width="22px" src="https://usmanasif961507868.files.wordpress.com/2021/08/linkedin.png" /></a>
+<a href = "https://www.facebook.com/abdullah.maqbool.359"><img align="left" width="22px" src="https://usmanasif961507868.files.wordpress.com/2021/08/facebook.png" /></a>
+
+
+ 
 
 <!--
 **AbdullahM22/AbdullahM22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
