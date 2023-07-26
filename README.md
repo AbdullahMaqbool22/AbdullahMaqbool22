@@ -21,6 +21,7 @@ Currently, I am furthering my skills as an intern at CSCEC Kuwait in the IT Depa
         src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" /></a>
 <a href="https://www.jetbrains.com/idea/"><img align="left" alt="Intellij IDE" width="26px" height="26px"
         src="https://img.icons8.com/color/48/intellij-idea.png" /></a>
+<a href="https://github.com/AbdullahMaqbool22" target="blank"><img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png" style="padding-right:10px;" /></a>
 <a href="https://html.com/"><img align="left" alt="HTML5" width="26px" height="26px"
         src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" /></a>
 <a href="https://www.w3schools.com/css/default.asp"><img align="left" alt="CSS3" width="26px" height="26px"
@@ -35,6 +36,7 @@ Currently, I am furthering my skills as an intern at CSCEC Kuwait in the IT Depa
         src="https://img.icons8.com/color/48/python--v1.png" /></a>
 <a href="https://cplusplus.com/doc/tutorial/"><img align="left" alt="c-plus-plus" width="26px" height="26px"
         src="https://img.icons8.com/color/48/c-plus-plus-logo.png" /></a>
+        
   <br />
 <br />
 
