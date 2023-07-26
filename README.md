@@ -54,6 +54,7 @@ I am deeply passionate about both securing digital environments and creating inn
 ![Github stats](https://github-readme-stats.vercel.app/api?username=AbdullahM22)
 
 ## My Projects
+
 ![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=AbdullahM22&repo=1st_Semester_ICT_Project)
 
 ![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=AbdullahM22&repo=Youtube_Dev)
