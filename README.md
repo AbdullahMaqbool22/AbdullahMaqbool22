@@ -74,7 +74,7 @@ I am deeply passionate about both securing digital environments and creating inn
 </a>
 
 ## 📫 How to Reach Me
-<a href = "https://twitter.com/home"><img align="left" width="22px" 
+<a href = "https://twitter.com/AbdullahM228"><img align="left" width="22px" 
 src="https://usmanasif961507868.files.wordpress.com/2021/08/twitter.png" /></a>
 <a href = "https://www.linkedin.com/in/abdullah-maqbool-8b469a25b/"><img align="left" width="22px" src="https://usmanasif961507868.files.wordpress.com/2021/08/linkedin.png" /></a>
 <a href = "https://www.facebook.com/abdullah.maqbool.359"><img align="left" width="22px" src="https://usmanasif961507868.files.wordpress.com/2021/08/facebook.png" /></a>
