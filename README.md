@@ -1,7 +1,5 @@
 <h1 align="center">Hello Coders!! 👋</h1>
-<a href="https://postimg.cc/47kvTjnS" target="blank"><img align="center" alt="HTML5" width="100%" src="https://i.postimg.cc/85sZLSGN/github-header-image-2.png" style="padding-right:10px;" /></a>
-
-
+<a href="https://www.linkedin.com/in/abdullah-maqbool-8b469a25b/" target="blank"><img align="center" alt="HTML5" width="100%" src="https://i.postimg.cc/cHZ9xy95/github-header-image.png" style="padding-right:10px;" /></a>
 
 # Abdullah Maqbool - Cyber Security Student | Web Development Enthusiast | Operations Manager
 
@@ -84,6 +82,8 @@ src="https://usmanasif961507868.files.wordpress.com/2021/08/twitter.png" /></a>
 <a href = "https://www.facebook.com/abdullah.maqbool.359"><img align="left" width="22px" src="https://usmanasif961507868.files.wordpress.com/2021/08/facebook.png" /></a>
 <a href = "mailto:abdullahmaqbool08@gmail.com"><img align="left" width="22px" 
 src="https://img.icons8.com/fluency/48/gmail-new.png" /></a>
+        </br>
+</br>
 
 
  
