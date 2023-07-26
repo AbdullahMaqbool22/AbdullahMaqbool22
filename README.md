@@ -71,7 +71,7 @@ He/Him
 I am deeply passionate about both securing digital environments and creating innovative web applications. I believe in the power of technology to make a positive impact on the world.
 
 ## My Languages.
-<a href="https://github.com/AbdullahM22">
+<a href="https://github.com/AbdullahMaqbool22">
  <img height="180em" width="360em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AbdullahM22&layout=compact&theme=algolia"/> 
 </a>
 
@@ -89,7 +89,7 @@ src="https://img.icons8.com/fluency/48/gmail-new.png" /></a>
  
 
 <!--
-**AbdullahM22/AbdullahM22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**AbdullahMaqbool22/AbdullahMaqbool22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
