@@ -74,7 +74,7 @@ I am deeply passionate about both securing digital environments and creating inn
 
 ## My Languages.
 <a href="https://github.com/AbdullahMaqbool22">
- <img height="180em" width="360em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AbdullahM22&layout=compact&theme=algolia"/> 
+ <img height="180em" width="360em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AbdullahMaqbool22&layout=compact&theme=algolia"/> 
 </a>
 
 ## 📫 How to Reach Me
