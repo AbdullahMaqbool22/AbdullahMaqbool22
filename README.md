@@ -65,15 +65,6 @@ I am deeply passionate about both securing digital environments and creating inn
 ## My Languages.
  <img height="180em" width="360em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AbdullahM22&layout=compact&theme=algolia"/> 
 
-## My Projects
-
-![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=AbdullahM22&repo=1st_Semester_ICT_Project)
-
-![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=AbdullahM22&repo=Youtube_Dev)
-
-![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=AbdullahM22&repo=2nd_Semester_PF_Project)
-
-
 ## 📫 How to Reach Me
 <a href = "https://twitter.com/home"><img align="left" width="22px" 
 src="https://usmanasif961507868.files.wordpress.com/2021/08/twitter.png" /></a>
