@@ -1,4 +1,4 @@
-### Hi there 👋
+## Hi there 👋
 # Abdullah Maqbool - Cyber Security Student | Web Development Enthusiast | Operations Manager
 
 ## About Me
@@ -69,7 +69,9 @@ He/Him
 I am deeply passionate about both securing digital environments and creating innovative web applications. I believe in the power of technology to make a positive impact on the world.
 
 ## My Languages.
+<a href="https://github.com/AbdullahM22">
  <img height="180em" width="360em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AbdullahM22&layout=compact&theme=algolia"/> 
+</a>
 
 ## 📫 How to Reach Me
 <a href = "https://twitter.com/home"><img align="left" width="22px" 
