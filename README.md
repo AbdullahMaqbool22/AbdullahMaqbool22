@@ -31,6 +31,8 @@ Currently, I am furthering my skills as an intern at CSCEC Kuwait in the IT Depa
         src="https://img.icons8.com/external-flaticons-flat-flat-icons/64/external-java-computer-programming-flaticons-flat-flat-icons.png" /></a>
 <a href="https://www.python.org/"><img align="left" alt="Python" width="26px" height="26px"
         src="https://img.icons8.com/color/48/python--v1.png" /></a>
+<a href="https://cplusplus.com/doc/tutorial/"><img align="left" alt="c-plus-plus" width="26px" height="26px"
+        src="https://img.icons8.com/color/48/c-plus-plus-logo.png" /></a>
   <br />
 <br />
 
