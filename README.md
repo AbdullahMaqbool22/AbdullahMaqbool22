@@ -24,7 +24,7 @@ Currently, I am furthering my skills as an intern at CSCEC Kuwait in the IT Depa
 <a href="https://github.com/" target="blank"><img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png" style="padding-right:10px;" /></a>
 <a href="https://html.com/"><img align="left" alt="HTML5" width="26px" height="26px"
         src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" /></a>
-<a href="https://www.w3schools.com/css/default.asp"><img align="left" alt="CSS3" width="26px" height="26px"
+<a href="https://www.w3.org/Style/CSS/Overview.en.html"><img align="left" alt="CSS3" width="26px" height="26px"
         src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" /></a>
 <a href="https://getbootstrap.com/"><img align="left" alt="Bootstrap" width="26px" height="26px"
         src="https://img.icons8.com/color/48/bootstrap.png" /></a>
