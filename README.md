@@ -6,7 +6,7 @@
 
 ## About Me
 <img align="right" alt="Coding" width="500" src="https://i.postimg.cc/HngxzRQj/programming.gif" />
-Greetings! I am Abdullah Maqbool, a dedicated second-year student at Comsats University Islamabad, pursuing a degree in Cyber Security. With a strong passion for securing digital environments and a deep interest in web development, I am determined to make a positive impact in the world of technology.
+Greetings! I am Abdullah Maqbool, a dedicated student of sophmore at Comsats University Islamabad, pursuing a degree in Cyber Security. With a strong passion for securing digital environments and a deep interest in web development, I am determined to make a positive impact in the world of technology.
 
 Currently, I am furthering my skills as an intern at CSCEC Kuwait in the IT Department, where I contribute my expertise across various branches. Throughout my academic journey, I have actively engaged with the IEEE Student Branch Islamabad, taking on the challenging role of Operations Manager. This invaluable experience has allowed me to cultivate strong leadership skills, enabling me to thrive in dynamic environments. I have developed a keen eye for detail and possess a results-oriented mindset, consistently seeking innovative solutions to complex challenges.
 
