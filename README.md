@@ -1,7 +1,8 @@
 <h1 align="center">Hello Coders!! 👋</h1>
 <a href="https://www.linkedin.com/in/abdullah-maqbool-8b469a25b/" target="blank"><img align="center" alt="HTML5" width="100%" src="https://i.postimg.cc/cHZ9xy95/github-header-image.png" style="padding-right:10px;" /></a>
 
-# Abdullah Maqbool - Cyber Security Student | Web Development Enthusiast | Operations Manager
+# Abdullah Maqbool  
+## Cyber Security Student | Web Development Enthusiast
 
 ## About Me
 <img align="right" alt="Coding" width="500" src="https://i.postimg.cc/HngxzRQj/programming.gif" />
