@@ -76,7 +76,7 @@ He/Him
 
 I am deeply passionate about both securing digital environments and creating innovative web applications. I believe in the power of technology to make a positive impact on the world.
 
-## My Languages.
+## Language Usage.
 <a href="https://github.com/AbdullahMaqbool22">
  <img height="180em" width="360em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AbdullahMaqbool22&layout=compact&theme=algolia"/> 
 </a>
