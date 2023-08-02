@@ -1,4 +1,4 @@
-<h1 align="center">Hello Coders!! 👋</h1>
+<h1 align="center">Hello Coders!!  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <a href="https://www.linkedin.com/in/abdullah-maqbool-8b469a25b/" target="blank"><img align="center" alt="HTML5" width="100%" src="https://i.postimg.cc/cHZ9xy95/github-header-image.png" style="padding-right:10px;" /></a>
 
 # Abdullah Maqbool  
