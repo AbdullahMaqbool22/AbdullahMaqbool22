@@ -87,6 +87,10 @@ I am deeply passionate about both securing digital environments and creating inn
 src="https://usmanasif961507868.files.wordpress.com/2021/08/twitter.png" /></a>
 <a href = "https://www.linkedin.com/in/abdullah-maqbool-8b469a25b/"><img align="left" width="22px" src="https://usmanasif961507868.files.wordpress.com/2021/08/linkedin.png" /></a>
 <a href = "https://www.facebook.com/abdullah.maqbool.359"><img align="left" width="22px" src="https://usmanasif961507868.files.wordpress.com/2021/08/facebook.png" /></a>
+<a href = "https://tryhackme.com/p/trixycon"><img align="left" width="22px" 
+src="https://i.postimg.cc/76nt68XT/th.png" /></a>
+<a href = "https://stackoverflow.com/users/21672098/abdullah-maqbool"><img align="left" width="22px" 
+src="https://i.postimg.cc/SxQ9F0Yv/so.png" /></a>
 <a href = "mailto:abdullahmaqbool08@gmail.com"><img align="left" width="22px" 
 src="https://img.icons8.com/fluency/48/gmail-new.png" /></a>
         </br>
