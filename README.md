@@ -99,8 +99,6 @@ src="https://img.icons8.com/fluency/48/gmail-new.png" /></a>
 <h1 align='center'><i>Stay awesome!</i></h1>
 
 
- 
-
 <!--
 **AbdullahMaqbool22/AbdullahMaqbool22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
