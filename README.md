@@ -57,7 +57,7 @@ Currently, I am furthering my skills as an intern at CSCEC Kuwait in the IT Depa
 
 
 
-## Interests
+## 😶‍🌫️ Interests
 
 I am actively seeking opportunities to apply my skills and knowledge to protect digital landscapes, drive innovation, and contribute to the growth and success of a dynamic organization. I am confident in my ability to excel in challenging roles within the software industry, leveraging my technical expertise, leadership experience, and meticulous approach.
 
