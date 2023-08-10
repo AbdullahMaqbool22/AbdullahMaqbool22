@@ -49,6 +49,8 @@ Currently, I am furthering my skills as an intern at CSCEC Kuwait in the IT Depa
 <br />
 
 ### <img src = "https://i.postimg.cc/3J7MHnSW/os.gif" width=5%> OPERATING SYSTEMS:
+<a href="https://www.microsoft.com/en-us/" target="blank"><img align="left" alt="Windows" width="26px" src="https://img.icons8.com/color/48/microsoft.png"/></a>
+<a href="https://www.apple.com/" target="blank"><img align="left" alt="Apple" width="26px" src="https://img.icons8.com/color/48/mac-logo.png"/></a>
 <a href="https://www.kali.org/" target="blank"><img align="left" alt="Kali Linux" width="26px" src="https://img.icons8.com/plasticine/100/kali-linux.png"/></a>
         <br />
 <br />
