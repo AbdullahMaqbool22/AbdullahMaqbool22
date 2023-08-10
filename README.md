@@ -7,6 +7,15 @@ Greetings! I am Abdullah Maqbool, a dedicated student of sophmore at Comsats Uni
 
 Currently, I am furthering my skills as an intern at CSCEC Kuwait in the IT Department, where I contribute my expertise across various branches. Throughout my academic journey, I have actively engaged with the IEEE Student Branch Islamabad, taking on the challenging role of Operations Manager. This invaluable experience has allowed me to cultivate strong leadership skills, enabling me to thrive in dynamic environments. I have developed a keen eye for detail and possess a results-oriented mindset, consistently seeking innovative solutions to complex challenges.
 
+### <img src = "https://i.postimg.cc/fy9yGZK3/competitive-programmer.gif"  style="border-radius:15%" width=5%> MY PROFILE'S:
+<a href="https://tryhackme.com/p/trixycon"><img align="left" alt="TryHackMe" width="26px" height="26px"
+        src="https://i.postimg.cc/76nt68XT/th.png" /></a>
+<a href="https://stackoverflow.com/users/21672098/abdullah-maqbool"><img align="left" alt="StackOverflow" width="26px" height="26px"
+        src="https://i.postimg.cc/SxQ9F0Yv/so.png" /></a>
+	 <br />
+<br />
+
+
 
 
 ##  <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="3%"> Skills
@@ -110,16 +119,10 @@ I am deeply passionate about both securing digital environments and creating inn
         src="https://usmanasif961507868.files.wordpress.com/2021/08/facebook.png" /></a>
 <a href="https://www.instagram.com/abdullahmaqbool22/"><img align="left" alt="Instagram" width="26px" height="26px"
         src="https://i.postimg.cc/nr4scgy3/insta.png" /></a>
-<a href="https://tryhackme.com/p/trixycon"><img align="left" alt="TryHackMe" width="26px" height="26px"
-        src="https://i.postimg.cc/76nt68XT/th.png" /></a>
-<a href="https://stackoverflow.com/users/21672098/abdullah-maqbool"><img align="left" alt="StackOverflow" width="26px" height="26px"
-        src="https://i.postimg.cc/SxQ9F0Yv/so.png" /></a>
 <a href="mailto:abdullahmaqbool08@gmail.com"><img align="left" alt="Gmail" width="26px" height="26px"
         src="https://img.icons8.com/fluency/48/gmail-new.png" /></a>
         </br>
 </br>
-
-
 
 <h1 align='center'><i>Stay awesome!</i></h1>
 
