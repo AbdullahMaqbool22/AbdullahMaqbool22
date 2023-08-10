@@ -2,21 +2,12 @@
 <h1 align="center">Hello Coders!!  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 ## <img src="https://i.postimg.cc/fk42RgCk/about-me.gif" width="3%">  About Me
+<a href="https://github.com/AbdullahMaqbool22">
 <img align="right" alt="Coding" width="500" src="https://i.postimg.cc/HngxzRQj/programming.gif" />
+</a>
 Greetings! I am Abdullah Maqbool, a dedicated student of sophmore at Comsats University Islamabad, pursuing a degree in Cyber Security. With a strong passion for securing digital environments and a deep interest in web development, I am determined to make a positive impact in the world of technology.
 
 Currently, I am furthering my skills as an intern at CSCEC Kuwait in the IT Department, where I contribute my expertise across various branches. Throughout my academic journey, I have actively engaged with the IEEE Student Branch Islamabad, taking on the challenging role of Operations Manager. This invaluable experience has allowed me to cultivate strong leadership skills, enabling me to thrive in dynamic environments. I have developed a keen eye for detail and possess a results-oriented mindset, consistently seeking innovative solutions to complex challenges.
-
-### <img src = "https://i.postimg.cc/fy9yGZK3/competitive-programmer.gif"  style="border-radius:15%" width=5%> MY PROFILE'S:
-<a href="https://tryhackme.com/p/trixycon"><img align="left" alt="TryHackMe" width="26px" height="26px"
-        src="https://i.postimg.cc/76nt68XT/th.png" /></a>
-<a href="https://stackoverflow.com/users/21672098/abdullah-maqbool"><img align="left" alt="StackOverflow" width="26px" height="26px"
-        src="https://i.postimg.cc/SxQ9F0Yv/so.png" /></a>
-	 <br />
-<br />
-
-
-
 
 ##  <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="3%"> Skills
 
@@ -25,7 +16,6 @@ Currently, I am furthering my skills as an intern at CSCEC Kuwait in the IT Depa
 - Currently mastering JavaScript for web development
 
 ### <img src = "https://i.postimg.cc/VkYz479j/Programming-Languages.gif" width=5%> LANGUAGES:
-
 <a href="https://html.com/"><img align="left" alt="HTML5" width="26px" height="26px"
         src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" /></a>
 <a href="https://www.w3.org/Style/CSS/Overview.en.html"><img align="left" alt="CSS3" width="26px" height="26px"
@@ -50,7 +40,6 @@ Currently, I am furthering my skills as an intern at CSCEC Kuwait in the IT Depa
 <br />
 
 ### <img src = "https://i.postimg.cc/vHXrZZzf/IDEs.gif" width=5%>IDE'S:
-
 <a href="https://code.visualstudio.com/"><img align="left" alt="Visual Studio Code" width="26px" height="26px"     src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" /></a>
 <a href="https://www.jetbrains.com/idea/"><img align="left" alt="Intellij IDE" width="26px" height="26px"
         src="https://img.icons8.com/color/48/intellij-idea.png" /></a>
@@ -109,6 +98,15 @@ I am deeply passionate about both securing digital environments and creating inn
 
   </p>
 </details>
+
+## <img src = "https://i.postimg.cc/fy9yGZK3/competitive-programmer.gif"  style="border-radius:15%" width=5%> MY PROFILE'S:
+<a href="https://tryhackme.com/p/trixycon"><img align="left" alt="TryHackMe" width="26px" height="26px"
+        src="https://i.postimg.cc/76nt68XT/th.png" /></a>
+<a href="https://stackoverflow.com/users/21672098/abdullah-maqbool"><img align="left" alt="StackOverflow" width="26px" height="26px"
+        src="https://i.postimg.cc/SxQ9F0Yv/so.png" /></a>
+	 <br />
+<br />
+
 
 ## <img src="https://i.postimg.cc/cLDn0tX8/contact-with-me.gif" width="10%"> How to Reach Me
 <a href="https://twitter.com/AbdullahM228"><img align="left" alt="Twitter" width="26px" height="26px"
