@@ -1,11 +1,7 @@
-
 <a href="https://www.linkedin.com/in/abdullah-maqbool-8b469a25b/" target="blank"><img align="center" alt="Coding" width="1000" src="https://developers.giphy.com/branch/master/static/api-512d36c09662682717108a38bbb5c57d.gif"></a>
 <h1 align="center">Hello Coders!!  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
-# Abdullah Maqbool  
-## Cyber Security Student | Web Development Enthusiast
-
-## About Me
+## <img src="https://i.postimg.cc/fk42RgCk/about-me.gif" width="3%">  About Me
 <img align="right" alt="Coding" width="500" src="https://i.postimg.cc/HngxzRQj/programming.gif" />
 Greetings! I am Abdullah Maqbool, a dedicated student of sophmore at Comsats University Islamabad, pursuing a degree in Cyber Security. With a strong passion for securing digital environments and a deep interest in web development, I am determined to make a positive impact in the world of technology.
 
@@ -13,21 +9,14 @@ Currently, I am furthering my skills as an intern at CSCEC Kuwait in the IT Depa
 
 
 
-## Skills
+##  <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="3%"> Skills
 
 - Cyber Security Principles and Best Practices
 - Python, Java, C++, HTML, CSS
 - Currently mastering JavaScript for web development
 
-### 🛠 Languages and Tools:
+### <img src = "https://i.postimg.cc/VkYz479j/Programming-Languages.gif" width=5%> LANGUAGES:
 
-<a href="https://code.visualstudio.com/"><img align="left" alt="Visual Studio Code" width="26px" height="26px"
-        src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" /></a>
-<a href="https://www.jetbrains.com/idea/"><img align="left" alt="Intellij IDE" width="26px" height="26px"
-        src="https://img.icons8.com/color/48/intellij-idea.png" /></a>
-<a href="https://github.com/" target="blank"><img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png"/></a>
-<a href="https://git-scm.com/" target="blank"><img align="left" alt="Git" width="26px" src="https://img.icons8.com/color/48/git.png"/></a>
-<a href="https://www.kali.org/" target="blank"><img align="left" alt="Kali Linux" width="26px" src="https://img.icons8.com/plasticine/100/kali-linux.png"/></a>
 <a href="https://html.com/"><img align="left" alt="HTML5" width="26px" height="26px"
         src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" /></a>
 <a href="https://www.w3.org/Style/CSS/Overview.en.html"><img align="left" alt="CSS3" width="26px" height="26px"
@@ -42,9 +31,29 @@ Currently, I am furthering my skills as an intern at CSCEC Kuwait in the IT Depa
         src="https://img.icons8.com/color/48/python--v1.png" /></a>
 <a href="https://cplusplus.com/doc/tutorial/"><img align="left" alt="c-plus-plus" width="26px" height="26px"
         src="https://img.icons8.com/color/48/c-plus-plus-logo.png" /></a>
-        
+          <br />
+<br />
+
+### <img src = "https://i.postimg.cc/vHXrZZzf/IDEs.gif" width=5%>IDE'S:
+
+<a href="https://code.visualstudio.com/"><img align="left" alt="Visual Studio Code" width="26px" height="26px"     src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" /></a>
+<a href="https://www.jetbrains.com/idea/"><img align="left" alt="Intellij IDE" width="26px" height="26px"
+        src="https://img.icons8.com/color/48/intellij-idea.png" /></a>
   <br />
 <br />
+
+### <img src = "https://i.postimg.cc/ZKWgr2M9/Software-Tools.gif" width=5%>  TOOL'S AND SOFTWARES:
+<a href="https://github.com/" target="blank"><img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png"/></a>
+<a href="https://git-scm.com/" target="blank"><img align="left" alt="Git" width="26px" src="https://img.icons8.com/color/48/git.png"/></a>
+ <br />
+<br />
+
+### <img src = "https://i.postimg.cc/3J7MHnSW/os.gif" width=5%> OPERATING SYSTEMS:
+<a href="https://www.kali.org/" target="blank"><img align="left" alt="Kali Linux" width="26px" src="https://img.icons8.com/plasticine/100/kali-linux.png"/></a>
+        <br />
+<br />
+
+
 
 ## Interests
 
@@ -78,12 +87,19 @@ He/Him
 
 I am deeply passionate about both securing digital environments and creating innovative web applications. I believe in the power of technology to make a positive impact on the world.
 
-## Language Usage.
-<a href="https://github.com/AbdullahMaqbool22">
- <img height="180em" width="360em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AbdullahMaqbool22&layout=compact&theme=algolia"/> 
-</a>
+## <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzFhYzJkMmQ2MWQ3ZGY3MDhjZTE3MDI2Mzk3NzE1OWQyZTRlMmYwMCZjdD1z/iY8CRBdQXODJSCERIr/giphy.gif" width=5% valign="bottom"> Github Profile Stats.
+<p align="center">
+    <a href="https://github.com/anuraghazra/github-readme-stats">
+	    <img alt="ak4m410x01's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Abdullahmaqbool22&show_icons=true&count_private=true&locale=en&theme=tokyonight&layout=compact" height="230px"/></a>
+	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AbdullahMaqbool22&langs_count=10&show_icons=true&locale=en&theme=tokyonight" alt="ak4m410x01" height="230px"/>
+<br/>
 
-## 📫 How to Reach Me
+<b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+
+  </p>
+</details>
+
+## <img src="https://i.postimg.cc/cLDn0tX8/contact-with-me.gif" width="10%"> How to Reach Me
 <a href="https://twitter.com/AbdullahM228"><img align="left" alt="Twitter" width="26px" height="26px"
         src="https://usmanasif961507868.files.wordpress.com/2021/08/twitter.png" /></a>
 <a href="https://www.linkedin.com/in/abdullah-maqbool-8b469a25b/"><img align="left" alt="Linkedin" width="26px" height="26px"
@@ -100,6 +116,8 @@ I am deeply passionate about both securing digital environments and creating inn
         src="https://img.icons8.com/fluency/48/gmail-new.png" /></a>
         </br>
 </br>
+
+
 
 <h1 align='center'><i>Stay awesome!</i></h1>
 
