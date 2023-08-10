@@ -1,7 +1,7 @@
 <a href="https://www.linkedin.com/in/abdullah-maqbool-8b469a25b/" target="blank"><img align="center" alt="Coding" width="1000" src="https://developers.giphy.com/branch/master/static/api-512d36c09662682717108a38bbb5c57d.gif"></a>
 <h1 align="center">Hello Coders!!  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
-## <img src="https://i.postimg.cc/fk42RgCk/about-me.gif" width="3%">  About Me
+## <img src="https://i.postimg.cc/fk42RgCk/about-me.gif" width="6.8%">  About Me
 <a href="https://github.com/AbdullahMaqbool22">
 <img align="right" alt="Coding" width="500" src="https://i.postimg.cc/HngxzRQj/programming.gif" />
 </a>
