@@ -97,13 +97,16 @@ I am deeply passionate about both securing digital environments and creating inn
 <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 
   </p>
-</details>
 
-## <img src = "https://i.postimg.cc/fy9yGZK3/competitive-programmer.gif"  style="border-radius:15%" width=5%> MY PROFILE'S:
-<a href="https://tryhackme.com/p/trixycon"><img align="left" alt="TryHackMe" width="26px" height="26px"
-        src="https://i.postimg.cc/76nt68XT/th.png" /></a>
+## <img src = "https://i.postimg.cc/fy9yGZK3/competitive-programmer.gif"  style="border-radius:15%" width=8%> MY CODER PROFILE'S:
 <a href="https://stackoverflow.com/users/21672098/abdullah-maqbool"><img align="left" alt="StackOverflow" width="26px" height="26px"
         src="https://i.postimg.cc/SxQ9F0Yv/so.png" /></a>
+	 <br />
+<br />
+
+## <img src="https://i.postimg.cc/Qd9F568Q/ctf-player.gif" style="border-radius:12%" width="10%"> MY CYBER PROFILE'S:
+<a href="https://tryhackme.com/p/trixycon"><img align="left" alt="TryHackMe" width="26px" height="26px"
+        src="https://i.postimg.cc/76nt68XT/th.png" /></a>
 	 <br />
 <br />
 
