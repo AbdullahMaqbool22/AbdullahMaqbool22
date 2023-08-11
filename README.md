@@ -16,40 +16,25 @@ Currently, I am furthering my skills as an intern at CSCEC Kuwait in the IT Depa
 - Currently mastering JavaScript for web development
 
 ### <img src = "https://i.postimg.cc/VkYz479j/Programming-Languages.gif" width=5%> LANGUAGES:
-<a href="https://html.com/"><img align="left" alt="HTML5" width="26px" height="26px"
-        src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" /></a>
-<a href="https://www.w3.org/Style/CSS/Overview.en.html"><img align="left" alt="CSS3" width="26px" height="26px"
-        src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" /></a>
-<a href="https://getbootstrap.com/"><img align="left" alt="Bootstrap" width="26px" height="26px"
-        src="https://img.icons8.com/color/48/bootstrap.png" /></a>
-<a href="https://www.javascript.com/"><img align="left" alt="JavaScript" width="26px" height="26px"
-        src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" /></a>
-<a href="https://www.java.com/en/"><img align="left" alt="Java" width="26px" height="26px"
-        src="https://img.icons8.com/external-flaticons-flat-flat-icons/64/external-java-computer-programming-flaticons-flat-flat-icons.png" /></a>
-<a href="https://www.python.org/"><img align="left" alt="Python" width="26px" height="26px"
-        src="https://img.icons8.com/color/48/python--v1.png" /></a>
-<a href="https://cplusplus.com/doc/tutorial/"><img align="left" alt="c-plus-plus" width="26px" height="26px"
-        src="https://img.icons8.com/color/48/c-plus-plus-logo.png" /></a>
-          <br />
-<br />
+<p align="left"> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a><a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a>   <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
 ### <img src = "https://i.postimg.cc/ZKWgr2M9/Software-Tools.gif" width=5%>  TOOL'S AND SOFTWARES:
-<a href="https://github.com/" target="blank"><img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png"/></a>
-<a href="https://git-scm.com/" target="blank"><img align="left" alt="Git" width="26px" src="https://img.icons8.com/color/48/git.png"/></a>
- <br />
-<br />
+<a href="https://github.com/" target="blank"><img align="left" alt="GitHub" width="40px"  height="40" src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png"/></a>
+<a href="https://git-scm.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a>
+<a href="https://www.figma.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/>  </a>
 
 ### <img src = "https://i.postimg.cc/vHXrZZzf/IDEs.gif" width=5%>IDE'S:
-<a href="https://code.visualstudio.com/"><img align="left" alt="Visual Studio Code" width="26px" height="26px"     src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" /></a>
-<a href="https://www.jetbrains.com/idea/"><img align="left" alt="Intellij IDE" width="26px" height="26px"
+<a href="https://code.visualstudio.com/"><img align="left" alt="Visual Studio Code" width="40px" height="40px"     src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" /></a>
+<a href="https://www.jetbrains.com/idea/"><img align="left" alt="Intellij IDE" width="40px" height="40px"
         src="https://img.icons8.com/color/48/intellij-idea.png" /></a>
-  <br />
+  	<br />
 <br />
 
 ### <img src = "https://i.postimg.cc/3J7MHnSW/os.gif" width=5%> OPERATING SYSTEMS:
-<a href="https://www.microsoft.com/en-us/" target="blank"><img align="left" alt="Windows" width="26px" src="https://img.icons8.com/color/48/microsoft.png"/></a>
-<a href="https://www.apple.com/" target="blank"><img align="left" alt="Apple" width="26px" src="https://img.icons8.com/color/48/mac-logo.png"/></a>
-<a href="https://www.kali.org/" target="blank"><img align="left" alt="Kali Linux" width="26px" src="https://img.icons8.com/plasticine/100/kali-linux.png"/></a>
+<a href="https://www.microsoft.com/en-us/" target="blank"><img align="left" alt="Windows" width="40px" height="40px" src="https://img.icons8.com/color/48/microsoft.png"/></a>
+<a href="https://www.apple.com/" target="blank"><img align="left" alt="Apple"  width="40px" height="40px" src="https://img.icons8.com/color/48/mac-logo.png"/></a>
+<a href="https://www.kali.org/" target="blank"><img align="left" alt="Kali Linux"  width="40px" height="40px" src="https://img.icons8.com/plasticine/100/kali-linux.png"/></a>
+<a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> 
         <br />
 <br />
 
@@ -99,28 +84,28 @@ I am deeply passionate about both securing digital environments and creating inn
   </p>
 
 ## <img src = "https://i.postimg.cc/fy9yGZK3/competitive-programmer.gif"  style="border-radius:15%" width=8%> MY CODER PROFILE'S:
-<a href="https://stackoverflow.com/users/21672098/abdullah-maqbool"><img align="left" alt="StackOverflow" width="26px" height="26px"
+<a href="https://stackoverflow.com/users/21672098/abdullah-maqbool"><img align="left" alt="StackOverflow"  width="40px" height="40px"
         src="https://i.postimg.cc/SxQ9F0Yv/so.png" /></a>
 	 <br />
 <br />
 
 ## <img src="https://i.postimg.cc/Qd9F568Q/ctf-player.gif" style="border-radius:12%" width="10%"> MY CYBER PROFILE'S:
-<a href="https://tryhackme.com/p/trixycon"><img align="left" alt="TryHackMe" width="26px" height="26px"
+<a href="https://tryhackme.com/p/trixycon"><img align="left" alt="TryHackMe"  width="40px" height="40px"
         src="https://i.postimg.cc/76nt68XT/th.png" /></a>
 	 <br />
 <br />
 
 
 ## <img src="https://i.postimg.cc/cLDn0tX8/contact-with-me.gif" width="10%"> How to Reach Me
-<a href="https://twitter.com/AbdullahM228"><img align="left" alt="Twitter" width="26px" height="26px"
+<a href="https://twitter.com/AbdullahM228"><img align="left" alt="Twitter" width="40px" height="40px"
         src="https://usmanasif961507868.files.wordpress.com/2021/08/twitter.png" /></a>
-<a href="https://www.linkedin.com/in/abdullah-maqbool-8b469a25b/"><img align="left" alt="Linkedin" width="26px" height="26px"
+<a href="https://www.linkedin.com/in/abdullah-maqbool-8b469a25b/"><img align="left" alt="Linkedin"  width="40px" height="40px"
         src="https://usmanasif961507868.files.wordpress.com/2021/08/linkedin.png" /></a>
-<a href="https://www.facebook.com/abdullah.maqbool.359"><img align="left" alt="Facebook" width="26px" height="26px"
+<a href="https://www.facebook.com/abdullah.maqbool.359"><img align="left" alt="Facebook" width="40px" height="40px"
         src="https://usmanasif961507868.files.wordpress.com/2021/08/facebook.png" /></a>
-<a href="https://www.instagram.com/abdullahmaqbool22/"><img align="left" alt="Instagram" width="26px" height="26px"
+<a href="https://www.instagram.com/abdullahmaqbool22/"><img align="left" alt="Instagram"  width="40px" height="40px"
         src="https://i.postimg.cc/nr4scgy3/insta.png" /></a>
-<a href="mailto:abdullahmaqbool08@gmail.com"><img align="left" alt="Gmail" width="26px" height="26px"
+<a href="mailto:abdullahmaqbool08@gmail.com"><img align="left" alt="Gmail"  width="40px" height="40px"
         src="https://img.icons8.com/fluency/48/gmail-new.png" /></a>
         </br>
 </br>
@@ -128,13 +113,24 @@ I am deeply passionate about both securing digital environments and creating inn
 <h1 align='center'><i>Stay awesome!</i></h1>
 
 
-
-
 <!--
 **AbdullahMaqbool22/AbdullahMaqbool22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+<!--<a href="https://git-scm.com/" target="blank"><img align="left" alt="Git" width="26px" src="https://img.icons8.com/color/48/git.png"/></a>
+<!--<a href="https://html.com/"><img align="left" alt="HTML5" width="26px" height="26px"
+        src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" /></a>
+<a href="https://www.w3.org/Style/CSS/Overview.en.html"><img align="left" alt="CSS3" width="26px" height="26px"
+        src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" /></a>
+<a href="https://getbootstrap.com/"><img align="left" alt="Bootstrap" width="26px" height="26px"
+        src="https://img.icons8.com/color/48/bootstrap.png" /></a>
+<a href="https://www.javascript.com/"><img align="left" alt="JavaScript" width="26px" height="26px"
+        src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" /></a>
+<a href="https://www.java.com/en/"><img align="left" alt="Java" width="26px" height="26px"
+        src="https://img.icons8.com/external-flaticons-flat-flat-icons/64/external-java-computer-programming-flaticons-flat-flat-icons.png" /></a>
+<a href="https://www.python.org/"><img align="left" alt="Python" width="26px" height="26px"
+        src="https://img.icons8.com/color/48/python--v1.png" /></a>
+<a href="https://cplusplus.com/doc/tutorial/"><img align="left" alt="c-plus-plus" width="26px" height="26px"
+        src="https://img.icons8.com/color/48/c-plus-plus-logo.png" /></a>
 Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
