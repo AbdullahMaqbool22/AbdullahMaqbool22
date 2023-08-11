@@ -90,7 +90,7 @@ I am deeply passionate about both securing digital environments and creating inn
 <br />
 
 ## <img src="https://i.postimg.cc/Qd9F568Q/ctf-player.gif" style="border-radius:12%" width="10%"> MY CYBER PROFILE'S:
-<a href="https://tryhackme.com/p/trixycon"><img align="left" alt="TryHackMe"  width="8%" 
+<a href="https://tryhackme.com/p/trixycon"><img align="left" alt="TryHackMe"  width="9%" 
         src="https://i.postimg.cc/YS4fP0ZT/tryhackme.png" /></a>
 	 <br />
 <br />
