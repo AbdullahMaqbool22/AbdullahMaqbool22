@@ -76,7 +76,7 @@ I am deeply passionate about both securing digital environments and creating inn
 <p align="center">
     <a href="https://github.com/AbdullahMaqbool22">
 	    <img alt="Abdullah Maqbool Github Stats" src="https://github-readme-stats.vercel.app/api?username=Abdullahmaqbool22&show_icons=true&count_private=true&locale=en&theme=tokyonight&layout=compact" height="230px"/>
-	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AbdullahMaqbool22&langs_count=10&show_icons=true&locale=en&theme=tokyonight" alt="ak4m410x01" height="230px"/>
+	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AbdullahMaqbool22&langs_count=10&show_icons=true&locale=en&theme=tokyonight" alt="AbdullahMaqbool22" height="230px"/>
 <br/>
 </a>
 <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
