@@ -16,7 +16,7 @@ Currently, I am furthering my skills as an intern at CSCEC Kuwait in the IT Depa
 - Currently mastering JavaScript for web development
 
 ### <img src = "https://i.postimg.cc/VkYz479j/Programming-Languages.gif" width=5%> LANGUAGES:
-<p align="left"> <a href="https://html.spec.whatwg.org/multipage/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a><a href="https://www.w3.org/Style/CSS/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://cplusplus.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a>   <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+<p align="left"> <a href="https://html.spec.whatwg.org/multipage/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a><a href="https://www.w3.org/Style/CSS/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>  <a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://cplusplus.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a>   <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>  <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
 ### <img src = "https://i.postimg.cc/ZKWgr2M9/Software-Tools.gif" width=5%>  TOOL'S AND SOFTWARES:
 <p align="left"><a href="https://github.com/" target="blank"><img align="left" alt="GitHub" width="40px"  height="40" src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png"/></a>
@@ -31,9 +31,9 @@ Currently, I am furthering my skills as an intern at CSCEC Kuwait in the IT Depa
 <br />
 
 ### <img src = "https://i.postimg.cc/3J7MHnSW/os.gif" width=5%> OPERATING SYSTEMS:
-<a href="https://www.microsoft.com/en-us/" target="blank"><img align="left" alt="Windows" width="40px" height="40px" src="https://img.icons8.com/color/48/microsoft.png"/></a>
+<a href="https://www.microsoft.com/en-us/" target="_blank"><img align="left" alt="Windows" width="40px" height="40px" src="https://img.icons8.com/color/48/microsoft.png"/></a>
 <a href="https://www.apple.com/" target="blank"><img align="left" alt="Apple"  width="40px" height="40px" src="https://img.icons8.com/color/48/mac-logo.png"/></a>
-<a href="https://www.kali.org/" target="blank"><img align="left" alt="Kali Linux"  width="40px" height="40px" src="https://img.icons8.com/plasticine/100/kali-linux.png"/></a>
+<a href="https://www.kali.org/" target="_blank"><img align="left" alt="Kali Linux"  width="40px" height="40px" src="https://img.icons8.com/plasticine/100/kali-linux.png"/></a>
 <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> 
         <br />
 <br />
@@ -90,7 +90,7 @@ I am deeply passionate about both securing digital environments and creating inn
 <br />
 
 ## <img src="https://i.postimg.cc/Qd9F568Q/ctf-player.gif" style="border-radius:12%" width="10%"> MY CYBER PROFILE'S:
-<a href="https://tryhackme.com/p/trixycon"><img align="left" alt="TryHackMe"  width="9%" 
+<a href="https://tryhackme.com/p/trixycon"><img align="left" alt="TryHackMe"  width="10%" 
         src="https://i.postimg.cc/YS4fP0ZT/tryhackme.png" /></a>
 	 <br />
 <br />
