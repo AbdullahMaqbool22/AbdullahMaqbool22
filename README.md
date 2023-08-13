@@ -2,7 +2,7 @@
 <h1 align="center">Hello Coders!!  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 ## <img src="https://i.postimg.cc/fk42RgCk/about-me.gif" width="5%">  About Me
-<a href="https://github.com/AbdullahMaqbool22">
+<a href="https://www.linkedin.com/in/abdullah-maqbool-8b469a25b/">
 <img align="right" alt="Coding" width="500" src="https://i.postimg.cc/HngxzRQj/programming.gif" />
 </a>
 Greetings! I am Abdullah Maqbool, a dedicated student of sophmore at Comsats University Islamabad, pursuing a degree in Cyber Security. With a strong passion for securing digital environments and a deep interest in web development, I am determined to make a positive impact in the world of technology.
