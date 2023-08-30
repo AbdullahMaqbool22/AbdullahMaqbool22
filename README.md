@@ -84,8 +84,9 @@ I am deeply passionate about both securing digital environments and creating inn
   </p>
 
 ## <img src = "https://i.postimg.cc/fy9yGZK3/competitive-programmer.gif"  style="border-radius:15%" width=8%> MY CODER PROFILE'S:
-<a href="https://stackoverflow.com/users/21672098/abdullah-maqbool"><img align="left" alt="StackOverflow"  width="40px" height="40px"
-        src="https://i.postimg.cc/SxQ9F0Yv/so.png" /></a>
+<a href="https://stackoverflow.com/users/21672098/abdullah-maqbool"><img align="left" alt="StackOverflow"  width="40px" height="30px"
+        src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" /></a>
+	<a href="https://www.leetcode.com/AbdullahM22" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="AbdullahM22" height="30" width="40" /></a>
 	 <br />
 <br />
 
@@ -97,20 +98,23 @@ I am deeply passionate about both securing digital environments and creating inn
 
 
 ## <img src="https://i.postimg.cc/cLDn0tX8/contact-with-me.gif" width="10%"> How to Reach Me
-<a href="https://twitter.com/AbdullahM228"><img align="left" alt="Twitter" width="30px" height="30px"
-        src="https://usmanasif961507868.files.wordpress.com/2021/08/twitter.png" /></a>
-<a href="https://www.linkedin.com/in/abdullah-maqbool-8b469a25b/"><img align="left" alt="Linkedin"  width="30px" height="30px"
-        src="https://usmanasif961507868.files.wordpress.com/2021/08/linkedin.png" /></a>
-<a href="https://www.facebook.com/abdullah.maqbool.359"><img align="left" alt="Facebook" width="30px" height="30px"
-        src="https://usmanasif961507868.files.wordpress.com/2021/08/facebook.png" /></a>
-<a href="https://www.instagram.com/abdullahmaqbool22/"><img align="left" alt="Instagram"  width="30px" height="30px"
-        src="https://i.postimg.cc/nr4scgy3/insta.png" /></a>
+<a href="https://twitter.com/AbdullahM228"><img align="left" alt="Twitter" width="40px" height="30px"
+        src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" /></a>
+<a href="https://www.linkedin.com/in/abdullah-maqbool-8b469a25b/"><img align="left" alt="Linkedin"  width="40px" height="30px"
+        src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" /></a>
+<a href="https://www.facebook.com/abdullah.maqbool.359"><img align="left" alt="Facebook" width="40px" height="30px"
+        src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" /></a>
+<a href="https://www.instagram.com/abdullahmaqbool22/"><img align="left" alt="Instagram"  width="40px" height="30px"
+        src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" /></a>
 <a href="mailto:abdullahmaqbool08@gmail.com"><img align="left" alt="Gmail"  width="30px" height="30px"
         src="https://img.icons8.com/fluency/48/gmail-new.png" /></a>
         </br>
 </br>
 
 <h1 align='center'><i>Stay awesome!</i></h1>
+
+
+
 
 
 <!--
