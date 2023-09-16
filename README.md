@@ -7,7 +7,7 @@
 </a>
 Greetings! I am Abdullah Maqbool, a dedicated student of sophmore at Comsats University Islamabad, pursuing a degree in Cyber Security. With a strong passion for securing digital environments and a deep interest in web development, I am determined to make a positive impact in the world of technology.
 
-I also furnished my skills as an intern at CSCEC Kuwait in the IT Department, where I contributed my expertise across various branches. Throughout my academic journey, I have actively engaged with the IEEE Student Branch Islamabad, taking on the challenging role of Operations Manager.And now i have joined Cyber Hacktivators as Graphic Designer where i will learn and implement my skills. This invaluable experience has allowed me to cultivate strong leadership skills, enabling me to thrive in dynamic environments. I have developed a keen eye for detail and possess a results-oriented mindset, consistently seeking innovative solutions to complex challenges.
+I have also furnished my skills as an intern at CSCEC Kuwait in the IT Department, where I contributed my expertise across various branches. Throughout my academic journey, I have actively engaged with the IEEE Student Branch Islamabad, taking on the challenging role of Operations Manager.And now i have joined Cyber Hacktivators as Graphic Designer where i will learn and implement my skills. This invaluable experience has allowed me to cultivate strong leadership skills, enabling me to thrive in dynamic environments. I have developed a keen eye for detail and possess a results-oriented mindset, consistently seeking innovative solutions to complex challenges.
 
 ##  <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="3%"> Skills
 
@@ -16,7 +16,7 @@ I also furnished my skills as an intern at CSCEC Kuwait in the IT Department, wh
 - Currently mastering JavaScript for web development
 
 ### <img src = "https://i.postimg.cc/VkYz479j/Programming-Languages.gif" width=5%> LANGUAGES:
-<p align="left"> <a href="https://html.spec.whatwg.org/multipage/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a><a href="https://www.w3.org/Style/CSS/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>  <a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a><a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>  <a href="https://cplusplus.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a>   <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>  <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+<p align="left"> <a href="https://html.spec.whatwg.org/multipage/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a><a href="https://www.w3.org/Style/CSS/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>  <a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a><a href="https://www.open-std.org/jtc1/sc22/wg14/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>  <a href="https://isocpp.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a>   <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>  <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
 ### <img src = "https://i.postimg.cc/ZKWgr2M9/Software-Tools.gif" width=5%>  TOOL'S AND SOFTWARES:
 <p align="left"><a href="https://github.com/" target="blank"><img align="left" alt="GitHub" width="40px"  height="40" src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png"/></a>
@@ -46,9 +46,8 @@ I am actively seeking opportunities to apply my skills and knowledge to protect 
 
 ## 🌱 Current Projects
 
-- Enhancing my skills as a Cyber Security student
-- Gaining practical experience as an intern at CSCEC Kuwait in the IT Department
-- Learning JavaScript to strengthen my web development capabilities
+- Enhancing my skills as a Cyber Security student.
+- Learning JavaScript to strengthen my web development capabilities.
 
 ## 👯 Looking to Collaborate
 
@@ -62,7 +61,6 @@ I am looking for help with exploring more advanced topics in cyber security and 
 
 - Cyber security principles and best practices
 - Programming languages like Python, Java, C++, HTML, and CSS
-- My experience as an Operations Manager at IEEE Student Branch Islamabad
 
 ## 😄 Pronouns
 
@@ -72,7 +70,7 @@ He/Him
 
 I am deeply passionate about both securing digital environments and creating innovative web applications. I believe in the power of technology to make a positive impact on the world.
 
-## <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzFhYzJkMmQ2MWQ3ZGY3MDhjZTE3MDI2Mzk3NzE1OWQyZTRlMmYwMCZjdD1z/iY8CRBdQXODJSCERIr/giphy.gif" width=5% valign="bottom"> Github Profile Stats.
+## <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzFhYzJkMmQ2MWQ3ZGY3MDhjZTE3MDI2Mzk3NzE1OWQyZTRlMmYwMCZjdD1z/iY8CRBdQXODJSCERIr/giphy.gif" width=5% valign="bottom"> My Github Stats.
 <p align="center">
     <a href="https://github.com/AbdullahMaqbool22">
 	    <img alt="Abdullah Maqbool Github Stats" src="https://github-readme-stats.vercel.app/api?username=Abdullahmaqbool22&show_icons=true&count_private=true&locale=en&theme=tokyonight&layout=compact" height="230px"/>
@@ -83,21 +81,21 @@ I am deeply passionate about both securing digital environments and creating inn
 
   </p>
 
-## <img src = "https://i.postimg.cc/fy9yGZK3/competitive-programmer.gif"  style="border-radius:15%" width=8%> MY CODER PROFILE'S:
+## <img src = "https://i.postimg.cc/fy9yGZK3/competitive-programmer.gif"  style="border-radius:15%" width=8%> My Coding Profile's:
 <a href="https://stackoverflow.com/users/21672098/abdullah-maqbool"><img align="left" alt="StackOverflow"  width="40px" height="30px"
         src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" /></a>
 	<a href="https://www.leetcode.com/AbdullahM22" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="AbdullahM22" height="30" width="40" /></a>
 	 <br />
 <br />
 
-## <img src="https://i.postimg.cc/Qd9F568Q/ctf-player.gif" style="border-radius:12%" width="10%"> MY CYBER PROFILE'S:
+## <img src="https://i.postimg.cc/Qd9F568Q/ctf-player.gif" style="border-radius:12%" width="10%"> My Cyber Profile's:
 <a href="https://tryhackme.com/p/trixycon"><img align="left" alt="TryHackMe"  width="10%" 
         src="https://i.postimg.cc/YS4fP0ZT/tryhackme.png" /></a>
 	 <br />
 <br />
 
 
-## <img src="https://i.postimg.cc/cLDn0tX8/contact-with-me.gif" width="10%"> How to Reach Me
+## <img src="https://i.postimg.cc/cLDn0tX8/contact-with-me.gif" width="10%"> Connect Me Through:
 <a href="https://twitter.com/AbdullahM228"><img align="left" alt="Twitter" width="40px" height="30px"
         src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" /></a>
 <a href="https://www.linkedin.com/in/abdullah-maqbool-8b469a25b/"><img align="left" alt="Linkedin"  width="40px" height="30px"
