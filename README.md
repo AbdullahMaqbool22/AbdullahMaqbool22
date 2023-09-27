@@ -91,6 +91,8 @@ I am deeply passionate about both securing digital environments and creating inn
 ## <img src="https://i.postimg.cc/Qd9F568Q/ctf-player.gif" style="border-radius:12%" width="10%"> My Cyber Profile's:
 <a href="https://tryhackme.com/p/trixycon"><img align="left" alt="TryHackMe"  width="10%" 
         src="https://i.postimg.cc/YS4fP0ZT/tryhackme.png" /></a>
+	<a href="https://play.picoctf.org/users/trixycon"><img align="left" alt="picoCTF"  width="40px" height="40px" 
+        src="https://i.postimg.cc/XNTSz0CL/pico.png" /></a>
 	 <br />
 <br />
 
