@@ -5,10 +5,11 @@
 <a href="https://www.linkedin.com/in/abdullah-maqbool-8b469a25b/">
 <img align="right" alt="Coding" width="500" src="https://i.postimg.cc/HngxzRQj/programming.gif" />
 </a>
-Greetings! I am Abdullah Maqbool, a dedicated student of sophomore at COMSATS University Islamabad, pursuing a degree in Cyber Security. With a strong passion for securing digital environments and a deep interest in web development, I am determined to make a positive impact in the world of technology.
 
-I have also furnished my skills as an intern at CSCEC Kuwait in the IT Department, where I contributed my expertise across various branches. Throughout my academic journey, I have actively engaged with the IEEE Student Branch Islamabad, taking on the challenging role of Operations Manager.And now i have joined Cyber Hacktivators as Graphic Designer where i will learn and implement my skills. This invaluable experience has allowed me to cultivate strong leadership skills, enabling me to thrive in dynamic environments. I have developed a keen eye for detail and possess a results-oriented mindset, consistently seeking innovative solutions to complex challenges.
-
+- 🎓 Sophomore at COMSATS University Islamabad, pursuing a degree in Cyber Security.
+- 💡 Passionate about securing digital environments and interested in Cyber Security and a bit of web devs.
+- 💼 Previously interned at CSCEC Kuwait in the IT Department, contributing expertise across various branches.
+- 🚀 Worked as Operation Manager at IEEE Student Branch Islamabad.
 ##  <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="3%"> Skills
 
 - Cyber Security Principles and Best Practices
