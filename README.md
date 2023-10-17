@@ -3,7 +3,7 @@
 
 ## <img src="https://i.postimg.cc/fk42RgCk/about-me.gif" width="5%">  About Me
 <a href="https://www.linkedin.com/in/abdullah-maqbool-8b469a25b/">
-<img align="right" alt="Coding" width="500" src="https://i.postimg.cc/HngxzRQj/programming.gif" />
+<img align="right" alt="Coding" width="400" src="https://i.postimg.cc/HngxzRQj/programming.gif" />
 </a>
 
 - 🎓 Sophomore at COMSATS University Islamabad, pursuing a degree in Cyber Security.
