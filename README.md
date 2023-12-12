@@ -97,6 +97,24 @@ I am deeply passionate about both securing digital environments and creating inn
 	 <br />
 <br />
 
+## <img src="https://media.giphy.com/media/bJ4TVNYNUympPgcpem/giphy.gif" style="border-radius:12%" width="10%"> My Cyber Badge's:
+<a href="https://tryhackme.com/p/trixycon"><img align="left" alt="TryHackMe"  width="5%" 
+        src="https://assets.tryhackme.com/img/badges/linux.svg" /></a>
+	<a href="https://tryhackme.com/p/trixycon"><img align="left" alt="TryHackMe"  width="5%" 
+        src="https://assets.tryhackme.com/img/badges/webbed.svg" /></a>
+	<a href="https://tryhackme.com/p/trixycon"><img align="left" alt="TryHackMe"  width="5%" 
+        src="https://assets.tryhackme.com/img/badges/streak7.svg" /></a>
+	<a href="https://tryhackme.com/p/trixycon"><img align="left" alt="TryHackMe"  width="5%" 
+        src="https://assets.tryhackme.com/img/badges/streak30.svg" /></a>
+	<a href="https://tryhackme.com/p/trixycon"><img align="left" alt="TryHackMe"  width="5%" 
+        src="https://assets.tryhackme.com/img/badges/introtooffensivesecurity.svg" /></a>
+	<a href="https://tryhackme.com/p/trixycon"><img align="left" alt="TryHackMe"  width="5%" 
+        src="https://assets.tryhackme.com/img/badges/firstfour.svg" /></a>
+	<a href="https://tryhackme.com/p/trixycon"><img align="left" alt="TryHackMe"  width="5%" 
+        src="https://assets.tryhackme.com/img/badges/adventofcyber4.svg" /></a>
+	 <br />
+<br />
+
 
 ## <img src="https://i.postimg.cc/cLDn0tX8/contact-with-me.gif" width="10%"> Connect Me Through:
 <a href="https://twitter.com/AbdullahM228"><img align="left" alt="Twitter" width="40px" height="30px"
