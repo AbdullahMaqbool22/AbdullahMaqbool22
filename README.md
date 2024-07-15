@@ -35,10 +35,10 @@
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
  <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a>
   	<br />
-### <img src = "https://i.postimg.cc/gJcPp50Z/giphy.gif" width=5%> DEVOPS:
+### <img src = "https://i.postimg.cc/fWXrF0nj/devops.gif" width=5%> DEVOPS:
 <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a>
   	<br />
-### <img src = "https://i.postimg.cc/gJcPp50Z/giphy.gif" width=5%> MOBILE APP DEVELOPMENT:
+### <img src = "https://i.postimg.cc/sDmwdYnS/giphy.gif" width=5%> MOBILE APP DEVELOPMENT:
 <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> 
 <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a>
   	<br />
