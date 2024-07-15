@@ -130,6 +130,10 @@ I am deeply passionate about both securing digital environments and creating inn
         src="https://assets.tryhackme.com/img/badges/firstfour.svg" /></a>
 	<a href="https://tryhackme.com/p/trixycon"><img align="left" alt="TryHackMe"  width="6%" 
         src="https://assets.tryhackme.com/img/badges/adventofcyber4.svg" /></a>
+	<a href="https://tryhackme.com/p/trixycon"><img align="left" alt="TryHackMe"  width="6%" 
+        src="https://tryhackme.com/img/badges/howthewebworks.svg" /></a>
+	<a href="https://tryhackme.com/p/trixycon"><img align="left" alt="TryHackMe"  width="6%" 
+        src="https://tryhackme.com/img/badges/introtosecurityengineering.svg" /></a>
 	 <br />
 <br />
 
