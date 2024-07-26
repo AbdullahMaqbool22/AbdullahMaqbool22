@@ -140,10 +140,11 @@ I am deeply passionate about both securing digital environments and creating inn
         src="https://tryhackme.com/img/badges/mrrobot.svg" /></a>
 	<a href="https://tryhackme.com/p/trixycon"><img align="left" alt="TryHackMe"  width="6%" 
         src="https://tryhackme.com/img/badges/ohsint.svg" /></a>
-	 <br />
-<br />
-
-
+	<a href="https://tryhackme.com/p/trixycon"><img align="left" alt="TryHackMe"  width="6%" 
+        src="https://tryhackme.com/img/badges/metasploit.svg" /></a>
+	<a href="https://tryhackme.com/p/trixycon"><img align="left" alt="TryHackMe"  width="6%" 
+        src="https://tryhackme.com/img/badges/hashcracker.svg" /></a>
+	 	<br><br><br><br><br><br>
 ## <img src="https://i.postimg.cc/cLDn0tX8/contact-with-me.gif" width="10%"> Connect Me Through:
 <a href="https://twitter.com/AbdullahM228"><img align="left" alt="Twitter" width="40px" height="30px"
         src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" /></a>
