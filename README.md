@@ -112,6 +112,8 @@ I am deeply passionate about both securing digital environments and creating inn
         src="https://i.postimg.cc/YS4fP0ZT/tryhackme.png" /></a>
 	<a href="https://play.picoctf.org/users/trixycon"><img align="left" alt="picoCTF"  width="40px" height="40px" 
         src="https://i.postimg.cc/XNTSz0CL/pico.png" /></a>
+	<a href="https://play.picoctf.org/users/trixycon"><img align="left" alt="picoCTF"  width="40px" height="40px" 
+        src="https://i.postimg.cc/XNTSz0CL/pico.png" /></a>
 	 <br />
 <br />
 
@@ -148,6 +150,8 @@ I am deeply passionate about both securing digital environments and creating inn
         src="https://tryhackme.com/img/badges/linuxprivesc.svg" /></a>
 	<a href="https://tryhackme.com/p/trixycon"><img align="left" alt="TryHackMe"  width="6%" 
         src="https://tryhackme.com/img/badges/networkfundamentals.svg" /></a>
+	<a href="https://tryhackme.com/p/trixycon"><img align="left" alt="TryHackMe"  width="6%" 
+        src="https://tryhackme.com/img/badges/introtowebsecurity.svg" /></a>
 	 	<br><br><br><br><br><br>
 ## <img src="https://i.postimg.cc/cLDn0tX8/contact-with-me.gif" width="10%"> Connect Me Through:
 <a href="https://twitter.com/AbdullahM228"><img align="left" alt="Twitter" width="40px" height="30px"
