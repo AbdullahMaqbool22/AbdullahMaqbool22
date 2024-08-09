@@ -5,8 +5,8 @@
 <a href="https://www.linkedin.com/in/abdullah-maqbool-8b469a25b/">
 <img align="right" alt="Coding" width="400" src="https://i.postimg.cc/HngxzRQj/programming.gif" />
 </a>
-
-- 🎓 Sophomore at COMSATS University Islamabad, pursuing a degree in Cyber Security.
+- ⚔️ Certified Junior Penteration Tester.
+- 🎓 Junior at COMSATS University Islamabad, pursuing a degree in Cyber Security.
 - 💡 Passionate about securing digital environments and interested in Cyber Security and a bit of web devs.
 - 💼 Previously interned at CSCEC Kuwait in the IT Department, contributing expertise across various branches.
 - 🚀 Worked as Operation Manager at IEEE Student Branch Islamabad.
