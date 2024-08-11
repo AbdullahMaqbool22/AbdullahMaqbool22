@@ -113,7 +113,7 @@ I am deeply passionate about both securing digital environments and creating inn
         src="https://i.postimg.cc/YS4fP0ZT/tryhackme.png" /></a>
 	<a href="https://play.picoctf.org/users/trixycon"><img align="left" alt="picoCTF"  width="40px" height="40px" 
         src="https://i.postimg.cc/XNTSz0CL/pico.png" /></a>
-	<a href="https://play.picoctf.org/users/trixycon"><img align="left" alt="hackthebox"  width="40px" height="40px" 
+	<a href="https://app.hackthebox.eu/profile/trixycon"><img align="left" alt="hackthebox"  width="40px" height="40px" 
         src="https://i.postimg.cc/MHSK2MyN/th.png" /></a>
 	 <br />
 <br />
