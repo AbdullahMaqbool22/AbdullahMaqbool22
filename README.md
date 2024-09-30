@@ -162,6 +162,9 @@ I am deeply passionate about both securing digital environments and creating inn
 	<a href="https://tryhackme.com/p/trixycon"><img align="left" alt="TryHackMe"  width="6%" 
         src="https://tryhackme.com/img/badges/3million.svg" /></a>
 	 	<br><br><br><br><br><br>
+   	<a href="https://flagyard.com/profile/trixycon"><img align="left" alt="FlagYard"  width="7.5%" 
+        src="https://files.flagyard.com/public/uploads/badges-web-hacker.svg" /></a>
+	 	<br><br>
 ## <img src="https://i.postimg.cc/cLDn0tX8/contact-with-me.gif" width="10%"> Connect Me Through:
 <a href="https://twitter.com/AbdullahM228"><img align="left" alt="Twitter" width="40px" height="30px"
         src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" /></a>
