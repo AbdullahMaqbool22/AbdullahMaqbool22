@@ -168,8 +168,8 @@ I am deeply passionate about both securing digital environments and creating inn
    	<a href="https://flagyard.com/profile/trixycon"><img align="left" alt="FlagYard"  width="7.5%" 
         src="https://files.flagyard.com/public/uploads/badges-web-hacker.svg" /></a>
 	 	<br><br><br><br>
-   <a href="https://app.letsdefend.io/user/trixycon"><img align="left" alt="letsdefend"  width="7.5%" 
-        src="https://app-ld-img.s3.amazonaws.com/badge/soc-fundamentals-badge-0101ea06-51bf-4f94-8e2f-1b363f78dbb2.png" /></a>
+   	<a href="https://app.letsdefend.io/user/trixycon"><img align="left" alt="letsdefend"  width="7.5%" 
+        src="https://i.postimg.cc/fTW4GB9k/soc-fundamentals-badge-0101ea06-51bf-4f94-8e2f-1b363f78dbb2.png" /></a>
 	 	<br><br>
 ## <img src="https://i.postimg.cc/cLDn0tX8/contact-with-me.gif" width="10%"> Connect Me Through:
 <a href="https://twitter.com/AbdullahM228"><img align="left" alt="Twitter" width="40px" height="30px"
