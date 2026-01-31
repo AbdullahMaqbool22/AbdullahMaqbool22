@@ -143,11 +143,32 @@ I am deeply passionate about both securing digital environments and creating inn
 	<a href="https://tryhackme.com/p/trixycon"><img align="left" alt="TryHackMe"  width="6%" 
         src="https://assets.tryhackme.com/img/badges/adventofcyber4.svg" /></a>
 	<a href="https://tryhackme.com/p/trixycon"><img align="left" alt="TryHackMe"  width="6%" 
-        src="https://tryhackme.com/img/badges/howthewebworks.svg" /></a>
+        src="https://assets.tryhackme.com/img/badges/owasptop10.svg" /></a>
 	<a href="https://tryhackme.com/p/trixycon"><img align="left" alt="TryHackMe"  width="6%" 
-        src="https://tryhackme.com/img/badges/introtosecurityengineering.svg" /></a>
+        src="https://assets.tryhackme.com/img/badges/careerready.svg" /></a>
+	<a href="https://tryhackme.com/p/trixycon"><img align="left" alt="TryHackMe"  width="6%" 
+        src="https://assets.tryhackme.com/img/badges/securityawareness.svg" /></a>
 	<a href="https://tryhackme.com/p/trixycon"><img align="left" alt="TryHackMe"  width="6%" 
         src="https://assets.tryhackme.com/img/badges/owasptop10.svg" /></a>
+   	<a href="https://flagyard.com/profile/trixycon"><img align="left" alt="FlagYard"  width="7.5%" 
+        src="https://files.flagyard.com/public/uploads/badges-web-hacker.svg" /></a>
+	 	<br><br><br>
+## <img src="https://i.postimg.cc/cLDn0tX8/contact-with-me.gif" width="10%"> Connect Me Through:
+<a href="https://twitter.com/AbdullahM228"><img align="left" alt="Twitter" width="40px" height="30px"
+        src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" /></a>
+<a href="https://www.linkedin.com/in/abdullah-maqbool-8b469a25b/"><img align="left" alt="Linkedin"  width="40px" height="30px"
+        src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" /></a>
+<a href="mailto:abdullahmaqbool08@gmail.com"><img align="left" alt="Gmail"  width="30px" height="30px"
+        src="https://img.icons8.com/fluency/48/gmail-new.png" /></a>
+        </br>
+		
+<h1 align='center'><i>HackTheHellUp!</i></h1>
+
+
+
+
+
+<!--
 	<a href="https://tryhackme.com/p/trixycon"><img align="left" alt="TryHackMe"  width="6%" 
         src="https://tryhackme.com/img/badges/mrrobot.svg" /></a>
 	<a href="https://tryhackme.com/p/trixycon"><img align="left" alt="TryHackMe"  width="6%" 
@@ -169,38 +190,15 @@ I am deeply passionate about both securing digital environments and creating inn
 	<a href="https://tryhackme.com/p/trixycon"><img align="left" alt="TryHackMe"  width="6%" 
         src="https://tryhackme.com/img/badges/introtodevsecops.svg" /></a>
 	<a href="https://tryhackme.com/p/trixycon"><img align="left" alt="TryHackMe"  width="6%" 
+        src="https://tryhackme.com/img/badges/howthewebworks.svg" /></a>
+			<a href="https://tryhackme.com/p/trixycon"><img align="left" alt="TryHackMe"  width="6%" 
+        src="https://tryhackme.com/img/badges/introtosecurityengineering.svg" /></a>
+		<a href="https://tryhackme.com/p/trixycon"><img align="left" alt="TryHackMe"  width="6%" 
         src="https://tryhackme.com/img/badges/3million.svg" /></a>
-	<a href="https://tryhackme.com/p/trixycon"><img align="left" alt="TryHackMe"  width="6%" 
-        src="https://assets.tryhackme.com/img/badges/careerready.svg" /></a>
-	<a href="https://tryhackme.com/p/trixycon"><img align="left" alt="TryHackMe"  width="6%" 
-        src="https://assets.tryhackme.com/img/badges/securityawareness.svg" /></a>
-	<a href="https://tryhackme.com/p/trixycon"><img align="left" alt="TryHackMe"  width="6%" 
-        src="https://assets.tryhackme.com/img/badges/owasptop10.svg" /></a>
-	 	<br><br><br><br><br><br>
-   	<a href="https://flagyard.com/profile/trixycon"><img align="left" alt="FlagYard"  width="7.5%" 
-        src="https://files.flagyard.com/public/uploads/badges-web-hacker.svg" /></a>
-	 	<br><br><br>
-## <img src="https://i.postimg.cc/cLDn0tX8/contact-with-me.gif" width="10%"> Connect Me Through:
-<a href="https://twitter.com/AbdullahM228"><img align="left" alt="Twitter" width="40px" height="30px"
-        src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" /></a>
-<a href="https://www.linkedin.com/in/abdullah-maqbool-8b469a25b/"><img align="left" alt="Linkedin"  width="40px" height="30px"
-        src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" /></a>
-<a href="https://www.facebook.com/abdullah.maqbool.359"><img align="left" alt="Facebook" width="40px" height="30px"
-        src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" /></a>
-<a href="https://www.instagram.com/abdullahmaqbool22/"><img align="left" alt="Instagram"  width="40px" height="30px"
+		<a href=""><img align="left" alt="Instagram"  width="40px" height="30px"
         src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" /></a>
-<a href="mailto:abdullahmaqbool08@gmail.com"><img align="left" alt="Gmail"  width="30px" height="30px"
-        src="https://img.icons8.com/fluency/48/gmail-new.png" /></a>
-        </br>
-</br>
-
-<h1 align='center'><i>HackTheHellUp!</i></h1>
-
-
-
-
-
-<!--
+		<a href=""><img align="left" alt="Facebook" width="40px" height="30px"
+        src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" /></a>
 **AbdullahMaqbool22/AbdullahMaqbool22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
 - 🔭 I’m currently working on ...
