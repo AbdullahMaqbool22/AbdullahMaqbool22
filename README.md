@@ -1,212 +1,273 @@
-<a href="https://www.linkedin.com/in/abdullah-maqbool-8b469a25b/" target="blank"><img align="center" alt="Coding" width="1000" src="https://developers.giphy.com/branch/master/static/api-512d36c09662682717108a38bbb5c57d.gif"></a>
-<h1 align="center">Hello Hackers!!  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<div align="center">
 
-## <img src="https://i.postimg.cc/fk42RgCk/about-me.gif" width="5%">  About Me
-<a href="https://www.linkedin.com/in/abdullah-maqbool-8b469a25b/">
-<img align="right" alt="Coding" width="400" src="https://i.postimg.cc/HngxzRQj/programming.gif" />
+<a href="https://www.linkedin.com/in/abdullahmaqboolahmed/">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00ff41,100:0d1117&height=200&section=header&text=Abdullah%20Maqbool&fontSize=50&fontColor=00ff41&animation=fadeIn&fontAlignY=38&desc=Penetration%20Testing%20Engineer%20%7C%20Ethical%20Hacker%20%7C%20CTF%20Player&descAlignY=58&descColor=ffffff" />
 </a>
 
-- ⚔️ Penetration Testing Engineer @Trillium Information Security Sytems (TISS)
-- 🦅 Certified Junior Penteration Tester.
-- 1️⃣ Top 1% @TryHackMe
-- 🎓 Senior at COMSATS University Islamabad, pursuing a degree in Cyber Security.
-- 💡 Passionate about securing digital environments and interested in Cyber Security and a bit of web devs.
-- 💼 Previously interned at CSCEC Kuwait in the IT Department, contributing expertise across various branches.
-- 🚀 Worked as Operation Manager at IEEE Student Branch Islamabad.
-##  <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="3%"> Skills
+<br/>
 
-- Cyber Security Principles and Best Practices
-- Python, Java, C++, HTML, CSS
-- Currently mastering JavaScript for web development
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00FF41&center=true&vCenter=true&width=600&lines=Penetration+Testing+Engineer+%40TISS;Top+1%25+%40TryHackMe+%7C+HTB+Player;Black+Hat+Qualifier+%26+Finalist;CTF+Champion+%7C+Security+Researcher;Bug+Bounty+Hunter+%7C+Red+Teamer)](https://git.io/typing-svg)
 
-### <img src = "https://i.postimg.cc/VkYz479j/Programming-Languages.gif" width=5%> LANGUAGES:
-<p align="left"> 
-<a href="https://html.spec.whatwg.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/></a>
-<a href="https://www.w3.org/Style/CSS/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/></a> 
-<a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/></a> 
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/></a>
-<a href="https://www.open-std.org/jtc1/sc22/wg14/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/></a>
-<a href="https://cplusplus.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/></a>  
-<a href="https://www.java.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/></a>  
-<a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a>
-<a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a>
-<a href="https://nodejs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="nodejs" width="40" height="40"/></a>
-<a href="https://www.rust-lang.org" target="_blank" rel="noreferrer"> <img src="https://i.postimg.cc/Jn070x5J/d91add8e1561f11455130857e6d0aef9.png" alt="rust" width="40" height="40"/> </a>
+<br/>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/abdullahmaqboolahmed/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://github.com/AbdullahMaqbool22"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="https://tryhackme.com/p/trixycon"><img src="https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white"/></a>
+  <a href="https://app.hackthebox.com/profile/2022862"><img src="https://img.shields.io/badge/HackTheBox-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black"/></a>
+  <a href="https://www.upwork.com/freelancers/abdullahmaqbool"><img src="https://img.shields.io/badge/Upwork-6FDA44?style=for-the-badge&logo=upwork&logoColor=white"/></a>
+  <a href="mailto:abdullahmaqbool08@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
 
-### <img src = "https://i.postimg.cc/ZKWgr2M9/Software-Tools.gif" width=5%>  TOOL'S AND SOFTWARES:
-<p align="left"><a href="https://github.com/" target="blank"><img align="left" alt="GitHub" width="40px"  height="40" src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png"/></a>
-<a href="https://git-scm.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a>
-<a href="https://www.figma.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/></a>
-<a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a><a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> </p>
-
-### <img src = "https://i.postimg.cc/gJcPp50Z/giphy.gif" width=5%> DATABASES:
-<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a>
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="mysql" width="40" height="40"/></a>
- <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a>
-  	<br />
-### <img src = "https://i.postimg.cc/fWXrF0nj/devops.gif" width=5%> DEVOPS:
-<a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a>
-  	<br />
-### <img src = "https://i.postimg.cc/sDmwdYnS/giphy.gif" width=5%> MOBILE APP DEVELOPMENT:
-<a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> 
-<a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a>
-  	<br />
-### <img src = "https://i.postimg.cc/vHXrZZzf/IDEs.gif" width=5%>IDE'S:
-<a href="https://code.visualstudio.com/"><img align="left" alt="Visual Studio Code" width="40px" height="40px"     src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" /></a>
-<a href="https://www.jetbrains.com/idea/"><img align="left" alt="Intellij IDE" width="40px" height="40px"
-        src="https://img.icons8.com/color/48/intellij-idea.png" /></a>
-  	<br />
-<br />
-
-### <img src = "https://i.postimg.cc/3J7MHnSW/os.gif" width=5%> OPERATING SYSTEMS:
-<a href="https://www.linux.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/></a>
-<a href="https://www.microsoft.com/windows" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows8/windows8-original.svg" alt="windows" width="40" height="40"/></a>
-<a href="https://www.apple.com/" target="blank"><img alt="Apple"  width="40" height="40" src="https://img.icons8.com/color/48/mac-logo.png"/></a>
-<a href="https://www.kali.org/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/2/2b/Kali-dragon-icon.svg" alt="kali linux" width="40" height="40"/></a>
-<a href="https://ubuntu.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ubuntu/ubuntu-plain.svg" alt="ubuntu" width="40" height="40"/></a>
-        <br />
-<br />
-
-
-
-## 😶‍🌫️ Interests
-
-I am actively seeking opportunities to apply my skills and knowledge to protect digital landscapes, drive innovation, and contribute to the growth and success of a dynamic organization. I am confident in my ability to excel in challenging roles within the software industry, leveraging my technical expertise, leadership experience, and meticulous approach.
-
-## 🌱 Current Projects
-
-- Enhancing my skills as a Cyber Security student.
-- Learning JavaScript to strengthen my web development capabilities.
-
-## 👯 Looking to Collaborate
-
-I am interested in collaborating on projects related to cyber security and web development, where I can contribute my expertise and drive innovation.
-
-## 🤔 Seeking Help
-
-I am looking for help with exploring more advanced topics in cyber security and staying up-to-date with the latest industry trends.
-
-## 💬 Ask Me About
-
-- Cyber security principles and best practices
-- Programming languages like Python, Java, C++, HTML, and CSS
-
-## 😄 Pronouns
-
-He/Him
-
-## ⚡ Fun Fact
-
-I am deeply passionate about both securing digital environments and creating innovative web applications. I believe in the power of technology to make a positive impact on the world.
-
-## <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzFhYzJkMmQ2MWQ3ZGY3MDhjZTE3MDI2Mzk3NzE1OWQyZTRlMmYwMCZjdD1z/iY8CRBdQXODJSCERIr/giphy.gif" width=5% valign="bottom"> My Github Stats.
 <p align="center">
-    <a href="https://github.com/AbdullahMaqbool22">
-	    <img height="180em" width="360em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=AbdullahMaqbool22&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-<img height="180em" width="300em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AbdullahMaqbool22&layout=compact&theme=algolia"/> 
-<br/>
-</a>
-<b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
-  </p>
+  <img src="https://komarev.com/ghpvc/?username=AbdullahMaqbool22&label=Profile%20Views&color=00ff41&style=flat-square" />
+  <img src="https://img.shields.io/badge/Upwork-Top%2010%25%20Freelancer-6FDA44?style=flat-square&logo=upwork&logoColor=white" />
+  <img src="https://img.shields.io/badge/TryHackMe-Top%201%25%20Global-red?style=flat-square&logo=tryhackme&logoColor=white" />
+</p>
 
-## <img src = "https://i.postimg.cc/fy9yGZK3/competitive-programmer.gif"  style="border-radius:15%" width=8%> My Coding Profile's:
-<a href="https://stackoverflow.com/users/21672098/abdullah-maqbool"><img align="left" alt="StackOverflow"  width="40px" height="30px"
-        src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" /></a>
-	<a href="https://www.leetcode.com/AbdullahM22" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="AbdullahM22" height="30" width="40" /></a>
-	 <br />
-<br />
+</div>
 
-## <img src="https://i.postimg.cc/Qd9F568Q/ctf-player.gif" style="border-radius:12%" width="10%"> My Cyber Profile's:
-<a href="https://tryhackme.com/p/trixycon"><img src="https://tryhackme-badges.s3.amazonaws.com/trixycon.png" alt="TryHackMe" /></a>
-	<a href="https://play.picoctf.org/users/trixycon"><img align="left" alt="picoCTF"  width="40px" height="40px" 
-        src="https://i.postimg.cc/XNTSz0CL/pico.png" /></a>
-	<a href="https://app.hackthebox.com/profile/2022862"><img align="left" alt="hackthebox"  width="40px" height="40px" 
-        src="https://i.postimg.cc/MHSK2MyN/th.png" /></a>
-	 <br />
-<br />
+---
 
-## <img src="https://media.giphy.com/media/bJ4TVNYNUympPgcpem/giphy.gif" style="border-radius:12%" width="10%"> My Cyber Badge's:
-<a href="https://tryhackme.com/p/trixycon"><img align="left" alt="TryHackMe"  width="5%" 
-        src="https://assets.tryhackme.com/img/badges/linux.svg" /></a>
-	<a href="https://tryhackme.com/p/trixycon"><img align="left" alt="TryHackMe"  width="6%" 
-        src="https://assets.tryhackme.com/img/badges/webbed.svg" /></a>
-	<a href="https://tryhackme.com/p/trixycon"><img align="left" alt="TryHackMe"  width="6%" 
-        src="https://assets.tryhackme.com/img/badges/streak7.svg" /></a>
-	<a href="https://tryhackme.com/p/trixycon"><img align="left" alt="TryHackMe"  width="6%" 
-        src="https://assets.tryhackme.com/img/badges/streak30.svg" /></a>
-	<a href="https://tryhackme.com/p/trixycon"><img align="left" alt="TryHackMe"  width="6%" 
-        src="https://assets.tryhackme.com/img/badges/introtooffensivesecurity.svg" /></a>
-	<a href="https://tryhackme.com/p/trixycon"><img align="left" alt="TryHackMe"  width="6%" 
-        src="https://assets.tryhackme.com/img/badges/firstfour.svg" /></a>
-	<a href="https://tryhackme.com/p/trixycon"><img align="left" alt="TryHackMe"  width="6%" 
-        src="https://assets.tryhackme.com/img/badges/adventofcyber4.svg" /></a>
-	<a href="https://tryhackme.com/p/trixycon"><img align="left" alt="TryHackMe"  width="6%" 
-        src="https://assets.tryhackme.com/img/badges/owasptop10.svg" /></a>
-	<a href="https://tryhackme.com/p/trixycon"><img align="left" alt="TryHackMe"  width="6%" 
-        src="https://assets.tryhackme.com/img/badges/careerready.svg" /></a>
-	<a href="https://tryhackme.com/p/trixycon"><img align="left" alt="TryHackMe"  width="6%" 
-        src="https://assets.tryhackme.com/img/badges/securityawareness.svg" /></a>
-	<a href="https://tryhackme.com/p/trixycon"><img align="left" alt="TryHackMe"  width="6%" 
-        src="https://assets.tryhackme.com/img/badges/owasptop10.svg" /></a>
-   	<a href="https://flagyard.com/profile/trixycon"><img align="left" alt="FlagYard"  width="7.5%" 
-        src="https://files.flagyard.com/public/uploads/badges-web-hacker.svg" /></a>
-	 	<br><br><br><br>
-		
-## <img src="https://i.postimg.cc/cLDn0tX8/contact-with-me.gif" width="10%"> Connect Me Through:
-<a href="https://twitter.com/AbdullahM228"><img align="left" alt="Twitter" width="40px" height="30px"
-        src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" /></a>
-<a href="https://www.linkedin.com/in/abdullah-maqbool-8b469a25b/"><img align="left" alt="Linkedin"  width="40px" height="30px"
-        src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" /></a>
-<a href="mailto:abdullahmaqbool08@gmail.com"><img align="left" alt="Gmail"  width="30px" height="30px"
-        src="https://img.icons8.com/fluency/48/gmail-new.png" /></a>
-        </br>
-		
-<h1 align='center'><i>HackTheHellUp!</i></h1>
+## <img src="https://i.postimg.cc/fk42RgCk/about-me.gif" width="3%"> About Me
 
+```bash
+┌──(abdullah㉿kali)-[~]
+└─$ whoami
 
+  ⚔️  Penetration Testing Engineer @ Trillium Information Security Systems (TISS)
+  🎓  Final-Year BS Cyber Security Student @ COMSATS University Islamabad
+  🏆  Black Hat MEA 2025 — Qualifier & Finalist
+  🥉  Pakistan Cyber Security Challenge — 3rd Position (Student Scoreboard)
+  🎯  Ignite Cyber Security Hackathon — 8th Position
+  🌍  Top 1% Globally @ TryHackMe | Active HTB Player
+  💼  Top 10% Freelancer on Upwork | 100% Job Success Score
+  🔴  Red Team | Web/Mobile/API Pentester | CTF Player & Creator
+  ✍️  Cyber Security Writer @ Medium
+  📍  Islamabad, Pakistan
+```
 
+---
 
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="3%"> Core Expertise
 
-<!--
-	<a href="https://tryhackme.com/p/trixycon"><img align="left" alt="TryHackMe"  width="6%" 
-        src="https://tryhackme.com/img/badges/mrrobot.svg" /></a>
-	<a href="https://tryhackme.com/p/trixycon"><img align="left" alt="TryHackMe"  width="6%" 
-        src="https://tryhackme.com/img/badges/ohsint.svg" /></a>
-	<a href="https://tryhackme.com/p/trixycon"><img align="left" alt="TryHackMe"  width="6%" 
-        src="https://tryhackme.com/img/badges/metasploit.svg" /></a>
-	<a href="https://tryhackme.com/p/trixycon"><img align="left" alt="TryHackMe"  width="6%" 
-        src="https://tryhackme.com/img/badges/hashcracker.svg" /></a>
-	<a href="https://tryhackme.com/p/trixycon"><img align="left" alt="TryHackMe"  width="6%" 
-        src="https://tryhackme.com/img/badges/linuxprivesc.svg" /></a>
-	<a href="https://tryhackme.com/p/trixycon"><img align="left" alt="TryHackMe"  width="6%" 
-        src="https://tryhackme.com/img/badges/networkfundamentals.svg" /></a>
-	<a href="https://tryhackme.com/p/trixycon"><img align="left" alt="TryHackMe"  width="6%" 
-        src="https://tryhackme.com/img/badges/introtowebsecurity.svg" /></a>
-	<a href="https://tryhackme.com/p/trixycon"><img align="left" alt="TryHackMe"  width="6%" 
-        src="https://tryhackme.com/img/badges/burpsuite.svg" /></a>
-	<a href="https://tryhackme.com/p/trixycon"><img align="left" alt="TryHackMe"  width="6%" 
-        src="https://tryhackme.com/img/badges/attackingad.svg" /></a>
-	<a href="https://tryhackme.com/p/trixycon"><img align="left" alt="TryHackMe"  width="6%" 
-        src="https://tryhackme.com/img/badges/introtodevsecops.svg" /></a>
-	<a href="https://tryhackme.com/p/trixycon"><img align="left" alt="TryHackMe"  width="6%" 
-        src="https://tryhackme.com/img/badges/howthewebworks.svg" /></a>
-			<a href="https://tryhackme.com/p/trixycon"><img align="left" alt="TryHackMe"  width="6%" 
-        src="https://tryhackme.com/img/badges/introtosecurityengineering.svg" /></a>
-		<a href="https://tryhackme.com/p/trixycon"><img align="left" alt="TryHackMe"  width="6%" 
-        src="https://tryhackme.com/img/badges/3million.svg" /></a>
-		<a href=""><img align="left" alt="Instagram"  width="40px" height="30px"
-        src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" /></a>
-		<a href=""><img align="left" alt="Facebook" width="40px" height="30px"
-        src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" /></a>
-**AbdullahMaqbool22/AbdullahMaqbool22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-Here are some ideas to get you started:
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center">
+
+| Offensive Security | Assessment Types | Specializations |
+|---|---|---|
+| Web Application Pentesting | White Box | OWASP Top 10 |
+| Mobile Pentesting (APK/IPA) | Grey Box | Business Logic Flaws |
+| API Security Testing | Black Box | Source Code Review |
+| Network Pentesting | VAPT | Digital Forensics |
+| Red Team Operations | Bug Bounty | Reverse Engineering Basics |
+| Vulnerability Assessment | CTF Creation | Malware Analysis |
+
+</div>
+
+---
+
+## <img src="https://i.postimg.cc/ZKWgr2M9/Software-Tools.gif" width="3%"> Tools & Arsenal
+
+### 🔴 Offensive & Pentesting Tools
+<p align="left">
+  <img src="https://img.shields.io/badge/Burp%20Suite-FF6633?style=for-the-badge&logo=portswigger&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Nmap-0E83CD?style=for-the-badge&logo=nmap&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQLmap-CC0000?style=for-the-badge&logo=databricks&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Hydra-black?style=for-the-badge&logo=gnu&logoColor=lime"/>
+  <img src="https://img.shields.io/badge/Nikto-8B0000?style=for-the-badge&logo=linux&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Hashcat-FF4500?style=for-the-badge&logo=hashnode&logoColor=white"/>
+  <img src="https://img.shields.io/badge/John%20the%20Ripper-black?style=for-the-badge&logo=linux&logoColor=red"/>
+  <img src="https://img.shields.io/badge/Gobuster-00CED1?style=for-the-badge&logo=go&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Ffuf-green?style=for-the-badge&logo=fastapi&logoColor=white"/>
+  <img src="https://img.shields.io/badge/WPScan-464646?style=for-the-badge&logo=wordpress&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Netcat-black?style=for-the-badge&logo=gnu&logoColor=lime"/>
+  <img src="https://img.shields.io/badge/LinPEAS%20%2F%20WinPEAS-red?style=for-the-badge&logo=linux&logoColor=white"/>
+</p>
+
+### 📱 Mobile Security
+<p align="left">
+  <img src="https://img.shields.io/badge/Frida-00B4AB?style=for-the-badge&logo=javascript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MobSF-3DDC84?style=for-the-badge&logo=android&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JADX-4CAF50?style=for-the-badge&logo=android&logoColor=white"/>
+  <img src="https://img.shields.io/badge/APKTool-A4C639?style=for-the-badge&logo=android&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Objection-FF6B35?style=for-the-badge&logo=mobile&logoColor=white"/>
+</p>
+
+### 🔬 Forensics & Reverse Engineering
+<p align="left">
+  <img src="https://img.shields.io/badge/Ghidra-FF0000?style=for-the-badge&logo=nsa&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Autopsy-2E3A59?style=for-the-badge&logo=forensics&logoColor=white"/>
+  <img src="https://img.shields.io/badge/FTK%20Imager-003087?style=for-the-badge&logo=accessdata&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Volatility3-8B008B?style=for-the-badge&logo=linux&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Binwalk-black?style=for-the-badge&logo=gnu&logoColor=lime"/>
+  <img src="https://img.shields.io/badge/Strings-555555?style=for-the-badge&logo=gnu&logoColor=white"/>
+</p>
+
+### 🌐 Network & Vulnerability Scanning
+<p align="left">
+  <img src="https://img.shields.io/badge/Nessus-00C176?style=for-the-badge&logo=tenable&logoColor=white"/>
+  <img src="https://img.shields.io/badge/OpenVAS-4CAF50?style=for-the-badge&logo=openvas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Masscan-0078D4?style=for-the-badge&logo=microsoft&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Shodan-AA0000?style=for-the-badge&logo=shodan&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Responder-1C1C1C?style=for-the-badge&logo=linux&logoColor=red"/>
+</p>
+
+### ⚙️ Dev & Automation Tools
+<p align="left">
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
+  <img src="https://img.shields.io/badge/IntelliJ-000000?style=for-the-badge&logo=intellijidea&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+</p>
+
+---
+
+## <img src="https://i.postimg.cc/VkYz479j/Programming-Languages.gif" width="3%"> Programming & Scripting
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Assembly-6E4C13?style=for-the-badge&logo=assemblyscript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+</p>
+
+---
+
+## <img src="https://i.postimg.cc/3J7MHnSW/os.gif" width="3%"> Operating Systems
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Kali%20Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Parrot%20OS-15E0ED?style=for-the-badge&logo=linux&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"/>
+  <img src="https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple&logoColor=white"/>
+</p>
+
+---
+
+## <img src="https://i.postimg.cc/fy9yGZK3/competitive-programmer.gif" width="3%"> Achievements & CTF Hall of Fame
+
+```
+🎖️  Black Hat MEA 2025               — Qualifier & Finalist
+🥉  Pakistan Cyber Security Challenge — 3rd Position (Student Scoreboard) 2024
+🎯  Ignite Cyber Security Hackathon  — 8th Position (Finalist) 2024
+🐛  NADRA Bug Bounty                 — Participant 2026
+🥇  CUI Techfest CTF 2025            — Winner
+🥇  BizzTech 2024                    — Winner
+🥇  Ignite NTF Workshop 2024         — Advanced Track Winner
+🥇  Ignite NTF Workshop 2024         — Beginner Track Winner
+🎯  NasCon 2025                      — Finalist
+🌍  TryHackMe                        — Top 1% Global Ranking (Ongoing)
+💼  Upwork                           — Top 10% Freelancer | 100% Job Success
+```
+
+---
+
+## <img src="https://i.postimg.cc/gJcPp50Z/giphy.gif" width="3%"> Certifications
+
+<p align="left">
+  <img src="https://img.shields.io/badge/CRTA-Certified%20Red%20Team%20Analyst-red?style=for-the-badge&logo=target&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CRTOM-Red%20Team%20Ops%20Mgmt-darkred?style=for-the-badge&logo=target&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CPPS-Certified-orange?style=for-the-badge&logo=shield&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CompTIA-PenTest%2B-CC0000?style=for-the-badge&logo=comptia&logoColor=white"/>
+  <img src="https://img.shields.io/badge/ISO%2FIEC%2027001-InfoSec%20Associate-blue?style=for-the-badge&logo=iso&logoColor=white"/>
+  <img src="https://img.shields.io/badge/ISO%2FIEC%2020000-IT%20Service%20Mgmt-0052CC?style=for-the-badge&logo=iso&logoColor=white"/>
+  <img src="https://img.shields.io/badge/ISO%209001-Quality%20Mgmt-green?style=for-the-badge&logo=iso&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TryHackMe-Jr.%20Pentester-212C42?style=for-the-badge&logo=tryhackme&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LetsDefend-SOC%20Analyst-1a1a2e?style=for-the-badge&logo=shield&logoColor=lime"/>
+  <img src="https://img.shields.io/badge/LetsDefend-Malware%20Analysis-1a1a2e?style=for-the-badge&logo=shield&logoColor=red"/>
+</p>
+
+---
+
+## <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzFhYzJkMmQ2MWQ3ZGY3MDhjZTE3MDI2Mzk3NzE1OWQyZTRlMmYwMCZjdD1z/iY8CRBdQXODJSCERIr/giphy.gif" width="3%"> GitHub Stats
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=AbdullahMaqbool22&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=00ff41&icon_color=00ff41"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AbdullahMaqbool22&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00ff41"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AbdullahMaqbool22&theme=chartreuse-dark&hide_border=true&background=0d1117&ring=00ff41&fire=00ff41&currStreakLabel=00ff41"/>
+</div>
+
+> **Note:** Top languages reflects public repo content, not overall skill level.
+
+---
+
+## <img src="https://i.postimg.cc/Qd9F568Q/ctf-player.gif" width="3%"> CTF & Cyber Profiles
+
+<p align="left">
+  <a href="https://tryhackme.com/p/trixycon"><img src="https://tryhackme-badges.s3.amazonaws.com/trixycon.png" alt="TryHackMe Badge" height="60"/></a>
+</p>
+
+<p align="left">
+  <a href="https://tryhackme.com/p/trixycon"><img src="https://img.shields.io/badge/TryHackMe-trixycon-212C42?style=for-the-badge&logo=tryhackme&logoColor=white"/></a>
+  <a href="https://app.hackthebox.com/profile/2022862"><img src="https://img.shields.io/badge/HackTheBox-Profile-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black"/></a>
+  <a href="https://play.picoctf.org/users/trixycon"><img src="https://img.shields.io/badge/picoCTF-trixycon-4B9CD3?style=for-the-badge&logo=pico&logoColor=white"/></a>
+  <a href="https://flagyard.com/profile/trixycon"><img src="https://img.shields.io/badge/FlagYard-trixycon-FF4500?style=for-the-badge&logo=flag&logoColor=white"/></a>
+  <a href="https://www.leetcode.com/AbdullahM22"><img src="https://img.shields.io/badge/LeetCode-AbdullahM22-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/></a>
+</p>
+
+---
+
+## <img src="https://media.giphy.com/media/bJ4TVNYNUympPgcpem/giphy.gif" width="3%"> TryHackMe Badges
+
+<p align="left">
+  <a href="https://tryhackme.com/p/trixycon"><img src="https://assets.tryhackme.com/img/badges/linux.svg" width="6%"/></a>
+  <a href="https://tryhackme.com/p/trixycon"><img src="https://assets.tryhackme.com/img/badges/webbed.svg" width="6%"/></a>
+  <a href="https://tryhackme.com/p/trixycon"><img src="https://assets.tryhackme.com/img/badges/owasptop10.svg" width="6%"/></a>
+  <a href="https://tryhackme.com/p/trixycon"><img src="https://assets.tryhackme.com/img/badges/introtooffensivesecurity.svg" width="6%"/></a>
+  <a href="https://tryhackme.com/p/trixycon"><img src="https://assets.tryhackme.com/img/badges/streak30.svg" width="6%"/></a>
+  <a href="https://tryhackme.com/p/trixycon"><img src="https://assets.tryhackme.com/img/badges/streak7.svg" width="6%"/></a>
+  <a href="https://tryhackme.com/p/trixycon"><img src="https://assets.tryhackme.com/img/badges/careerready.svg" width="6%"/></a>
+  <a href="https://tryhackme.com/p/trixycon"><img src="https://assets.tryhackme.com/img/badges/securityawareness.svg" width="6%"/></a>
+  <a href="https://tryhackme.com/p/trixycon"><img src="https://assets.tryhackme.com/img/badges/adventofcyber4.svg" width="6%"/></a>
+  <a href="https://tryhackme.com/p/trixycon"><img src="https://assets.tryhackme.com/img/badges/firstfour.svg" width="6%"/></a>
+  <a href="https://flagyard.com/profile/trixycon"><img src="https://files.flagyard.com/public/uploads/badges-web-hacker.svg" width="7%"/></a>
+</p>
+
+---
+
+## <img src="https://i.postimg.cc/cLDn0tX8/contact-with-me.gif" width="3%"> Community & Content
+
+- ✍️ **Cyber Security Writer** — [Medium](https://medium.com/) | Writing walkthroughs, research & security insights
+- 🐙 **Open-Source Contributor** — [GitHub](https://github.com/AbdullahMaqbool22) | Active since Aug 2024
+- 🚩 **CTF Challenge Creator** — Freelance | Designing real-world security challenges
+- 🔗 **Links** — [Linktree](https://linktr.ee/abdullahmaqbool22) | [Portfolio](https://abdullahmaqbool.w3spaces.com)
+
+---
+
+## <img src="https://i.postimg.cc/fWXrF0nj/devops.gif" width="3%"> Ask Me About
+
+`Web App Pentesting` · `Mobile Security` · `OWASP Top 10` · `CTF Challenges` · `Bug Bounty` · `Red Teaming` · `Python Scripting for Security` · `Digital Forensics`
+
+---
+
+<div align="center">
+
+### <img src="https://i.postimg.cc/cLDn0tX8/contact-with-me.gif" width="3%"> Connect With Me
+
+<a href="https://twitter.com/AbdullahM228"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/abdullahmaqboolahmed/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="mailto:abdullahmaqbool08@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://linktr.ee/abdullahmaqbool22"><img src="https://img.shields.io/badge/Linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white"/></a>
+
+<br/><br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00ff41,100:0d1117&height=120&section=footer&text=HackTheHellUp!&fontSize=30&fontColor=00ff41&animation=fadeIn"/>
+
+</div>
