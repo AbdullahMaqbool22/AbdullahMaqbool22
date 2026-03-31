@@ -244,8 +244,8 @@
 
 ## <img src="https://i.postimg.cc/cLDn0tX8/contact-with-me.gif" width="3%"> Community & Content
 
-- ✍️ **Cyber Security Writer** — [Medium](https://medium.com/) | Writing walkthroughs, research & security insights
-- 🐙 **Open-Source Contributor** — [GitHub](https://github.com/AbdullahMaqbool22) | Active since Aug 2024
+- ✍️ **Cyber Security Writer** — [Medium](https://medium.com/@abdullahmaqbool08) | Writing walkthroughs, research & security insights
+- 🐙 **Open-Source Contributor** — [GitHub](https://github.com/AbdullahMaqbool22) | Active since Mar 2023
 - 🚩 **CTF Challenge Creator** — Freelance | Designing real-world security challenges
 - 🔗 **Links** — [Linktree](https://linktr.ee/abdullahmaqbool22) | [Portfolio](https://abdullahmaqbool.w3spaces.com)
 
