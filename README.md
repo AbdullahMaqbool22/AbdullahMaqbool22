@@ -209,11 +209,11 @@
 ---
 
 ## <img src="https://i.postimg.cc/Qd9F568Q/ctf-player.gif" width="3%"> CTF & Cyber Profiles
-
+<!--
 <p align="left">
   <a href="https://tryhackme.com/p/trixycon"><img src="https://tryhackme-badges.s3.amazonaws.com/trixycon.png" alt="TryHackMe Badge" height="60"/></a>
 </p>
-
+-->
 <p align="left">
   <a href="https://tryhackme.com/p/trixycon"><img src="https://img.shields.io/badge/TryHackMe-trixycon-212C42?style=for-the-badge&logo=tryhackme&logoColor=white"/></a>
   <a href="https://app.hackthebox.com/profile/2022862"><img src="https://img.shields.io/badge/HackTheBox-Profile-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black"/></a>
