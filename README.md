@@ -164,6 +164,7 @@
 🎖️  Black Hat MEA 2025               — Qualifier & Finalist
 🥉  Pakistan Cyber Security Challenge — 3rd Position (Student Scoreboard) 2024
 🎯  Ignite Cyber Security Hackathon  — 8th Position (Finalist) 2024
+🥇  NUST MCS CTF                     — Winner
 🐛  NADRA Bug Bounty                 — Participant 2026
 🥇  CUI Techfest CTF 2025            — Winner
 🥇  BizzTech 2024                    — Winner
