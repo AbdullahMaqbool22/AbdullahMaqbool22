@@ -36,7 +36,7 @@
 └─$ whoami
 
   ⚔️  Penetration Testing Engineer @ Trillium Information Security Systems (TISS)
-  🎓  Final-Year BS Cyber Security Student @ COMSATS University Islamabad
+  🎓  BS Cyber Security Graduate @ COMSATS University Islamabad
   🏆  Black Hat MEA 2025 — Qualifier & Finalist
   🥉  Pakistan Cyber Security Challenge — 3rd Position (Student Scoreboard)
   🎯  Ignite Cyber Security Hackathon — 8th Position
@@ -162,12 +162,12 @@
 
 ```
 🎖️  Black Hat MEA 2025               — Qualifier & Finalist
-🥉  Pakistan Cyber Security Challenge — 3rd Position (Student Scoreboard) 2024
-🎯  Ignite Cyber Security Hackathon  — 8th Position (Finalist) 2024
 🥇  NUST MCS CTF                     — Winner
-🐛  NADRA Bug Bounty                 — Participant 2026
 🥇  CUI Techfest CTF 2025            — Winner
 🥇  BizzTech 2024                    — Winner
+🥉  Pakistan Cyber Security Challenge — 3rd Position (Student Scoreboard) 2024
+🎯  Ignite Cyber Security Hackathon  — 8th Position (Finalist) 2024
+🐛  NADRA Bug Bounty                 — Participant 2026
 🥇  Ignite NTF Workshop 2024         — Advanced Track Winner
 🥇  Ignite NTF Workshop 2024         — Beginner Track Winner
 🎯  NasCon 2025                      — Finalist
